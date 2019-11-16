@@ -1,0 +1,3868 @@
+@relation 'answerExp3-weka.filters.unsupervised.attribute.StringToNominal-R1-weka.filters.unsupervised.attribute.StringToWordVector-R2,3,4-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-stopwords-handlerweka.core.stopwords.Null-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute AnswerType {HUM:ind,NUM:date,LOC:state,NUM:count,LOC:other,LOC:country,LOC:city,LOC:mount,NUM:money,NUM:period,NUM:volsize,NUM:other,NUM:speed,NUM:perc,NUM:code,NUM:dist,NUM:temp,NUM:ord,NUM:weight}
+@attribute a numeric
+@attribute abbie numeric
+@attribute about numeric
+@attribute abstract numeric
+@attribute acceptance numeric
+@attribute accompanied numeric
+@attribute account numeric
+@attribute acres numeric
+@attribute actor numeric
+@attribute actress numeric
+@attribute address numeric
+@attribute adoptive numeric
+@attribute advised numeric
+@attribute advocate numeric
+@attribute african numeric
+@attribute after numeric
+@attribute age numeric
+@attribute ago numeric
+@attribute air numeric
+@attribute airline numeric
+@attribute airport numeric
+@attribute al numeric
+@attribute aldous numeric
+@attribute alexander numeric
+@attribute alice numeric
+@attribute all numeric
+@attribute also numeric
+@attribute alvin numeric
+@attribute always numeric
+@attribute america numeric
+@attribute american numeric
+@attribute americans numeric
+@attribute amount numeric
+@attribute amsterdam numeric
+@attribute amtrak numeric
+@attribute an numeric
+@attribute and numeric
+@attribute andy numeric
+@attribute angel numeric
+@attribute apollo numeric
+@attribute apostle numeric
+@attribute appointed numeric
+@attribute appointments numeric
+@attribute appropriately numeric
+@attribute approximately numeric
+@attribute arch numeric
+@attribute archie numeric
+@attribute architect numeric
+@attribute are numeric
+@attribute area numeric
+@attribute argentine numeric
+@attribute arnold numeric
+@attribute art numeric
+@attribute arthur numeric
+@attribute artist numeric
+@attribute as numeric
+@attribute asian numeric
+@attribute asked numeric
+@attribute astronaut numeric
+@attribute astronauts numeric
+@attribute astroturf numeric
+@attribute at numeric
+@attribute athlete numeric
+@attribute athletes numeric
+@attribute attorneys numeric
+@attribute attractions numeric
+@attribute attracts numeric
+@attribute australian numeric
+@attribute author numeric
+@attribute autobiography numeric
+@attribute avenue numeric
+@attribute average numeric
+@attribute awarded numeric
+@attribute away numeric
+@attribute ayer numeric
+@attribute babe numeric
+@attribute baby numeric
+@attribute bails numeric
+@attribute banned numeric
+@attribute barney numeric
+@attribute barroom numeric
+@attribute baseball numeric
+@attribute basketball numeric
+@attribute basque numeric
+@attribute bastille numeric
+@attribute batman numeric
+@attribute batteries numeric
+@attribute bay numeric
+@attribute beanie numeric
+@attribute bear numeric
+@attribute beatles numeric
+@attribute became numeric
+@attribute been numeric
+@attribute beethoven numeric
+@attribute began numeric
+@attribute begins numeric
+@attribute behind numeric
+@attribute belize numeric
+@attribute ben numeric
+@attribute bends numeric
+@attribute berlin numeric
+@attribute bert numeric
+@attribute bestowed numeric
+@attribute bestselling numeric
+@attribute betrayed numeric
+@attribute between numeric
+@attribute big numeric
+@attribute biggest numeric
+@attribute bill numeric
+@attribute billy numeric
+@attribute biography numeric
+@attribute blacks numeric
+@attribute blind numeric
+@attribute blonde numeric
+@attribute bloom numeric
+@attribute boarders numeric
+@attribute boasts numeric
+@attribute bobby numeric
+@attribute bocci numeric
+@attribute body numeric
+@attribute bones numeric
+@attribute bonnie numeric
+@attribute bordering numeric
+@attribute borders numeric
+@attribute botanical numeric
+@attribute bottle numeric
+@attribute bottles numeric
+@attribute bounty numeric
+@attribute bourbon numeric
+@attribute bowl numeric
+@attribute boxer numeric
+@attribute boxing numeric
+@attribute boy numeric
+@attribute boycotted numeric
+@attribute boys numeric
+@attribute brand numeric
+@attribute brave numeric
+@attribute bridge numeric
+@attribute britain numeric
+@attribute british numeric
+@attribute broadcast numeric
+@attribute broadcasting numeric
+@attribute broke numeric
+@attribute brothers numeric
+@attribute building numeric
+@attribute built numeric
+@attribute buried numeric
+@attribute burma numeric
+@attribute bush numeric
+@attribute buxom numeric
+@attribute buys numeric
+@attribute buzz numeric
+@attribute by numeric
+@attribute bytes numeric
+@attribute cable numeric
+@attribute cables numeric
+@attribute caesar numeric
+@attribute caffeine numeric
+@attribute calcium numeric
+@attribute california numeric
+@attribute called numeric
+@attribute calls numeric
+@attribute calories numeric
+@attribute calypso numeric
+@attribute camcorders numeric
+@attribute came numeric
+@attribute camp numeric
+@attribute can numeric
+@attribute canadians numeric
+@attribute canal numeric
+@attribute canine numeric
+@attribute capital numeric
+@attribute cardinal numeric
+@attribute cards numeric
+@attribute caribbean numeric
+@attribute carl numeric
+@attribute cartoon numeric
+@attribute casinos numeric
+@attribute cathedral numeric
+@attribute cds numeric
+@attribute celebrity numeric
+@attribute celestial numeric
+@attribute center numeric
+@attribute century numeric
+@attribute chairman numeric
+@attribute chairs numeric
+@attribute chapter numeric
+@attribute character numeric
+@attribute characters numeric
+@attribute charles numeric
+@attribute cheery numeric
+@attribute chemical numeric
+@attribute cherokee numeric
+@attribute cherubs numeric
+@attribute chicken numeric
+@attribute chief numeric
+@attribute child numeric
+@attribute children numeric
+@attribute chilean numeric
+@attribute china numeric
+@attribute chocolate numeric
+@attribute chop numeric
+@attribute chosen numeric
+@attribute christ numeric
+@attribute christopher numeric
+@attribute cigarette numeric
+@attribute cities numeric
+@attribute citizen numeric
+@attribute city numeric
+@attribute civil numeric
+@attribute claimed numeric
+@attribute claims numeric
+@attribute classical numeric
+@attribute claws numeric
+@attribute closest numeric
+@attribute clown numeric
+@attribute cnn numeric
+@attribute coach numeric
+@attribute coca numeric
+@attribute coined numeric
+@attribute colleges numeric
+@attribute colonies numeric
+@attribute colorado numeric
+@attribute colored numeric
+@attribute colorful numeric
+@attribute colors numeric
+@attribute columbia numeric
+@attribute comedian numeric
+@attribute comedienne numeric
+@attribute comediennes numeric
+@attribute comes numeric
+@attribute comic numeric
+@attribute commanded numeric
+@attribute commander numeric
+@attribute commanders numeric
+@attribute communist numeric
+@attribute community numeric
+@attribute companies numeric
+@attribute compared numeric
+@attribute composer numeric
+@attribute comprised numeric
+@attribute congressman numeric
+@attribute consecutive numeric
+@attribute considered numeric
+@attribute constellation numeric
+@attribute contains numeric
+@attribute contemptible numeric
+@attribute continent numeric
+@attribute continents numeric
+@attribute copies numeric
+@attribute corners numeric
+@attribute costume numeric
+@attribute could numeric
+@attribute count numeric
+@attribute counties numeric
+@attribute countries numeric
+@attribute country numeric
+@attribute county numeric
+@attribute couple numeric
+@attribute cover numeric
+@attribute covers numeric
+@attribute cowboy numeric
+@attribute craft numeric
+@attribute created numeric
+@attribute creative numeric
+@attribute creator numeric
+@attribute credited numeric
+@attribute cricketer numeric
+@attribute crooner numeric
+@attribute cubic numeric
+@attribute cullions numeric
+@attribute cupboard numeric
+@attribute currently numeric
+@attribute dana numeric
+@attribute danced numeric
+@attribute darth numeric
+@attribute dartmouth numeric
+@attribute data numeric
+@attribute date numeric
+@attribute dates numeric
+@attribute daughter numeric
+@attribute day numeric
+@attribute days numeric
+@attribute dc numeric
+@attribute debts numeric
+@attribute declared numeric
+@attribute deep numeric
+@attribute deer numeric
+@attribute degrees numeric
+@attribute delivered numeric
+@attribute democratic numeric
+@attribute dennis numeric
+@attribute department numeric
+@attribute desert numeric
+@attribute designed numeric
+@attribute designer numeric
+@attribute detective numeric
+@attribute developed numeric
+@attribute dew numeric
+@attribute dialing numeric
+@attribute diamonds numeric
+@attribute dick numeric
+@attribute dictator numeric
+@attribute did numeric
+@attribute died numeric
+@attribute different numeric
+@attribute digits numeric
+@attribute dikembe numeric
+@attribute diminutive numeric
+@attribute directed numeric
+@attribute direction numeric
+@attribute director numeric
+@attribute discovered numeric
+@attribute disks numeric
+@attribute dispatched numeric
+@attribute dita numeric
+@attribute divides numeric
+@attribute do numeric
+@attribute doctor numeric
+@attribute does numeric
+@attribute dogs numeric
+@attribute dollars numeric
+@attribute domesticated numeric
+@attribute dondi numeric
+@attribute doonesbury numeric
+@attribute doris numeric
+@attribute dots numeric
+@attribute double numeric
+@attribute dracula numeric
+@attribute dressed numeric
+@attribute drew numeric
+@attribute dubai numeric
+@attribute dubliners numeric
+@attribute dummy numeric
+@attribute dylan numeric
+@attribute dynasty numeric
+@attribute each numeric
+@attribute earn numeric
+@attribute earns numeric
+@attribute earthworms numeric
+@attribute eastern numeric
+@attribute einstein numeric
+@attribute electoral numeric
+@attribute electricity numeric
+@attribute elephants numeric
+@attribute elevators numeric
+@attribute else numeric
+@attribute emperor numeric
+@attribute emperors numeric
+@attribute endangered numeric
+@attribute ends numeric
+@attribute energy numeric
+@attribute engineer numeric
+@attribute engines numeric
+@attribute england numeric
+@attribute english numeric
+@attribute englishmen numeric
+@attribute enigmatic numeric
+@attribute equal numeric
+@attribute erupts numeric
+@attribute erykah numeric
+@attribute established numeric
+@attribute etta numeric
+@attribute european numeric
+@attribute events numeric
+@attribute every numeric
+@attribute explorer numeric
+@attribute explorers numeric
+@attribute eyes numeric
+@attribute fahrenheit numeric
+@attribute faith numeric
+@attribute famed numeric
+@attribute family numeric
+@attribute famous numeric
+@attribute famously numeric
+@attribute far numeric
+@attribute farthest numeric
+@attribute fast numeric
+@attribute father numeric
+@attribute fatman numeric
+@attribute favorite numeric
+@attribute feathered numeric
+@attribute feet numeric
+@attribute fellow numeric
+@attribute female numeric
+@attribute feminist numeric
+@attribute fictional numeric
+@attribute fiddlers numeric
+@attribute field numeric
+@attribute fields numeric
+@attribute fig numeric
+@attribute figure numeric
+@attribute film numeric
+@attribute films numeric
+@attribute fingers numeric
+@attribute fired numeric
+@attribute first numeric
+@attribute fish numeric
+@attribute flag numeric
+@attribute flash numeric
+@attribute flavors numeric
+@attribute florida numeric
+@attribute flows numeric
+@attribute folic numeric
+@attribute followed numeric
+@attribute fool numeric
+@attribute football numeric
+@attribute for numeric
+@attribute force numeric
+@attribute former numeric
+@attribute found numeric
+@attribute founded numeric
+@attribute founder numeric
+@attribute four numeric
+@attribute fraction numeric
+@attribute frames numeric
+@attribute franklin numeric
+@attribute fraze numeric
+@attribute freckles numeric
+@attribute fred numeric
+@attribute freidreich numeric
+@attribute french numeric
+@attribute frenchman numeric
+@attribute friz numeric
+@attribute full numeric
+@attribute funeral numeric
+@attribute furlongs numeric
+@attribute future numeric
+@attribute gained numeric
+@attribute gallons numeric
+@attribute game numeric
+@attribute games numeric
+@attribute gandhi numeric
+@attribute garrett numeric
+@attribute gate numeric
+@attribute gave numeric
+@attribute general numeric
+@attribute genius numeric
+@attribute geological numeric
+@attribute george numeric
+@attribute georgia numeric
+@attribute gerald numeric
+@attribute german numeric
+@attribute ghost numeric
+@attribute girl numeric
+@attribute give numeric
+@attribute glamorous numeric
+@attribute glasgow numeric
+@attribute global numeric
+@attribute goldfinger numeric
+@attribute golfer numeric
+@attribute good numeric
+@attribute got numeric
+@attribute gothic numeric
+@attribute gould numeric
+@attribute governor numeric
+@attribute graced numeric
+@attribute grammys numeric
+@attribute great numeric
+@attribute green numeric
+@attribute grooves numeric
+@attribute group numeric
+@attribute guam numeric
+@attribute guinea numeric
+@attribute gulf numeric
+@attribute gulliver numeric
+@attribute gum numeric
+@attribute gutenberg numeric
+@attribute had numeric
+@attribute hall numeric
+@attribute hamlet numeric
+@attribute hampshire numeric
+@attribute hands numeric
+@attribute harry numeric
+@attribute has numeric
+@attribute have numeric
+@attribute hawaii numeric
+@attribute hawaiian numeric
+@attribute he numeric
+@attribute head numeric
+@attribute headed numeric
+@attribute hearing numeric
+@attribute hearst numeric
+@attribute hearts numeric
+@attribute heavyweight numeric
+@attribute held numeric
+@attribute helium numeric
+@attribute her numeric
+@attribute herb numeric
+@attribute heroine numeric
+@attribute high numeric
+@attribute highest numeric
+@attribute hillary numeric
+@attribute his numeric
+@attribute historical numeric
+@attribute hit numeric
+@attribute hitler numeric
+@attribute hockey numeric
+@attribute holds numeric
+@attribute hole numeric
+@attribute holes numeric
+@attribute home numeric
+@attribute honecker numeric
+@attribute honeymooners numeric
+@attribute horse numeric
+@attribute horses numeric
+@attribute host numeric
+@attribute hostages numeric
+@attribute hosted numeric
+@attribute hot numeric
+@attribute hotel numeric
+@attribute hours numeric
+@attribute houses numeric
+@attribute housewife numeric
+@attribute how numeric
+@attribute human numeric
+@attribute humans numeric
+@attribute hummingbird numeric
+@attribute humpty numeric
+@attribute hungarian numeric
+@attribute hurricane numeric
+@attribute husbands numeric
+@attribute hussein numeric
+@attribute hyenas numeric
+@attribute i numeric
+@attribute identity numeric
+@attribute if numeric
+@attribute image numeric
+@attribute imaginary numeric
+@attribute imposed numeric
+@attribute in numeric
+@attribute inaugurated numeric
+@attribute inches numeric
+@attribute includes numeric
+@attribute independent numeric
+@attribute indian numeric
+@attribute innings numeric
+@attribute inoco numeric
+@attribute international numeric
+@attribute into numeric
+@attribute invented numeric
+@attribute inventors numeric
+@attribute iraqi numeric
+@attribute iraqis numeric
+@attribute iron numeric
+@attribute is numeric
+@attribute island numeric
+@attribute islands numeric
+@attribute israel numeric
+@attribute israeli numeric
+@attribute it numeric
+@attribute italian numeric
+@attribute jackie numeric
+@attribute jackson numeric
+@attribute jaco numeric
+@attribute james numeric
+@attribute japanese numeric
+@attribute jaws numeric
+@attribute jean numeric
+@attribute jews numeric
+@attribute jfk numeric
+@attribute jimmy numeric
+@attribute jockey numeric
+@attribute joe numeric
+@attribute john numeric
+@attribute joined numeric
+@attribute journalist numeric
+@attribute judge numeric
+@attribute judy numeric
+@attribute julie numeric
+@attribute karenna numeric
+@attribute kentucky numeric
+@attribute kenyan numeric
+@attribute kept numeric
+@attribute kidnaping numeric
+@attribute killed numeric
+@attribute kind numeric
+@attribute king numeric
+@attribute kings numeric
+@attribute kissed numeric
+@attribute knighted numeric
+@attribute known numeric
+@attribute korea numeric
+@attribute korean numeric
+@attribute kosovo numeric
+@attribute ku numeric
+@attribute kurt numeric
+@attribute labor numeric
+@attribute lake numeric
+@attribute lakes numeric
+@attribute landed numeric
+@attribute landmark numeric
+@attribute languages numeric
+@attribute large numeric
+@attribute largest numeric
+@attribute las numeric
+@attribute latin numeric
+@attribute launched numeric
+@attribute laureate numeric
+@attribute lauren numeric
+@attribute lawyer numeric
+@attribute lawyers numeric
+@attribute layers numeric
+@attribute lead numeric
+@attribute leader numeric
+@attribute leaders numeric
+@attribute leads numeric
+@attribute learned numeric
+@attribute led numeric
+@attribute lee numeric
+@attribute leno numeric
+@attribute leos numeric
+@attribute letters numeric
+@attribute lewis numeric
+@attribute li numeric
+@attribute liberated numeric
+@attribute liberty numeric
+@attribute library numeric
+@attribute lie numeric
+@attribute lies numeric
+@attribute life numeric
+@attribute liked numeric
+@attribute lincoln numeric
+@attribute links numeric
+@attribute listeners numeric
+@attribute little numeric
+@attribute lived numeric
+@attribute lives numeric
+@attribute lobsters numeric
+@attribute logan numeric
+@attribute logarithmic numeric
+@attribute london numeric
+@attribute long numeric
+@attribute longest numeric
+@attribute longtime numeric
+@attribute los numeric
+@attribute loud numeric
+@attribute louisiana numeric
+@attribute loved numeric
+@attribute lucas numeric
+@attribute lucelly numeric
+@attribute luke numeric
+@attribute luther numeric
+@attribute made numeric
+@attribute maggio numeric
+@attribute maids numeric
+@attribute major numeric
+@attribute makes numeric
+@attribute makeup numeric
+@attribute making numeric
+@attribute malaysia numeric
+@attribute male numeric
+@attribute many numeric
+@attribute mao numeric
+@attribute maria numeric
+@attribute marilyn numeric
+@attribute mark numeric
+@attribute married numeric
+@attribute martin numeric
+@attribute martyrs numeric
+@attribute marvel numeric
+@attribute marvelous numeric
+@attribute marx numeric
+@attribute master numeric
+@attribute matt numeric
+@attribute maudie numeric
+@attribute maurizio numeric
+@attribute maximum numeric
+@attribute mayor numeric
+@attribute mccarren numeric
+@attribute me numeric
+@attribute mediterranean numeric
+@attribute megawatts numeric
+@attribute melbourne numeric
+@attribute member numeric
+@attribute members numeric
+@attribute men numeric
+@attribute menstruation numeric
+@attribute meters numeric
+@attribute metropolis numeric
+@attribute mexican numeric
+@attribute mia numeric
+@attribute michael numeric
+@attribute michelangelo numeric
+@attribute microsoft numeric
+@attribute middle numeric
+@attribute mighty numeric
+@attribute mile numeric
+@attribute miles numeric
+@attribute milligrams numeric
+@attribute millimeters numeric
+@attribute milliseconds numeric
+@attribute mines numeric
+@attribute minutes numeric
+@attribute mississippi numeric
+@attribute model numeric
+@attribute moderated numeric
+@attribute modern numeric
+@attribute monarch numeric
+@attribute money numeric
+@attribute month numeric
+@attribute months numeric
+@attribute more numeric
+@attribute mormon numeric
+@attribute mormons numeric
+@attribute most numeric
+@attribute mother numeric
+@attribute mount numeric
+@attribute mountain numeric
+@attribute mountainous numeric
+@attribute mountains numeric
+@attribute mouse numeric
+@attribute movie numeric
+@attribute movies numeric
+@attribute mozambique numeric
+@attribute much numeric
+@attribute muhammad numeric
+@attribute multitalented numeric
+@attribute murdered numeric
+@attribute muscles numeric
+@attribute museum numeric
+@attribute music numeric
+@attribute must numeric
+@attribute mustachioed numeric
+@attribute mystery numeric
+@attribute mythical numeric
+@attribute name numeric
+@attribute named numeric
+@attribute names numeric
+@attribute napolean numeric
+@attribute narrates numeric
+@attribute natchitoches numeric
+@attribute nathan numeric
+@attribute natick numeric
+@attribute nation numeric
+@attribute national numeric
+@attribute nationality numeric
+@attribute natural numeric
+@attribute naval numeric
+@attribute nazi numeric
+@attribute nba numeric
+@attribute nearest numeric
+@attribute needs numeric
+@attribute neither numeric
+@attribute neurons numeric
+@attribute nevada numeric
+@attribute new numeric
+@attribute nickname numeric
+@attribute nicknamed numeric
+@attribute nikita numeric
+@attribute nixon numeric
+@attribute nn numeric
+@attribute no numeric
+@attribute nobel numeric
+@attribute normal numeric
+@attribute north numeric
+@attribute northernmost numeric
+@attribute norway numeric
+@attribute nostradamus numeric
+@attribute novelist numeric
+@attribute number numeric
+@attribute objects numeric
+@attribute observed numeric
+@attribute ocean numeric
+@attribute oceans numeric
+@attribute ocho numeric
+@attribute of numeric
+@attribute offered numeric
+@attribute often numeric
+@attribute old numeric
+@attribute oldest numeric
+@attribute olive numeric
+@attribute olympic numeric
+@attribute on numeric
+@attribute once numeric
+@attribute one numeric
+@attribute onetime numeric
+@attribute only numeric
+@attribute opened numeric
+@attribute or numeric
+@attribute orange numeric
+@attribute ordered numeric
+@attribute originated numeric
+@attribute orleans numeric
+@attribute oscars numeric
+@attribute other numeric
+@attribute out numeric
+@attribute over numeric
+@attribute owned numeric
+@attribute owns numeric
+@attribute ozzy numeric
+@attribute painted numeric
+@attribute painter numeric
+@attribute pairs numeric
+@attribute panties numeric
+@attribute papal numeric
+@attribute par numeric
+@attribute park numeric
+@attribute part numeric
+@attribute past numeric
+@attribute patented numeric
+@attribute peak numeric
+@attribute penned numeric
+@attribute people numeric
+@attribute percent numeric
+@attribute percentage numeric
+@attribute perfect numeric
+@attribute permutations numeric
+@attribute person numeric
+@attribute personality numeric
+@attribute peruvian numeric
+@attribute peter numeric
+@attribute petrified numeric
+@attribute phone numeric
+@attribute physician numeric
+@attribute pia numeric
+@attribute pillar numeric
+@attribute pins numeric
+@attribute pitcher numeric
+@attribute pitchers numeric
+@attribute pizza numeric
+@attribute planet numeric
+@attribute played numeric
+@attribute player numeric
+@attribute players numeric
+@attribute plays numeric
+@attribute playwright numeric
+@attribute poe numeric
+@attribute poems numeric
+@attribute poet numeric
+@attribute points numeric
+@attribute pollock numeric
+@attribute pope numeric
+@attribute popularized numeric
+@attribute population numeric
+@attribute populous numeric
+@attribute portly numeric
+@attribute portrayed numeric
+@attribute potlatch numeric
+@attribute pounds numeric
+@attribute power numeric
+@attribute prankster numeric
+@attribute president numeric
+@attribute presidential numeric
+@attribute presidents numeric
+@attribute press numeric
+@attribute prewett numeric
+@attribute prime numeric
+@attribute princess numeric
+@attribute prison numeric
+@attribute private numeric
+@attribute procter numeric
+@attribute produces numeric
+@attribute professional numeric
+@attribute propellers numeric
+@attribute protects numeric
+@attribute province numeric
+@attribute pseudonym numeric
+@attribute pulitzer numeric
+@attribute pushes numeric
+@attribute putty numeric
+@attribute pythagoras numeric
+@attribute qatar numeric
+@attribute quality numeric
+@attribute quarters numeric
+@attribute quarts numeric
+@attribute queen numeric
+@attribute questions numeric
+@attribute radio numeric
+@attribute randy numeric
+@attribute range numeric
+@attribute ranger numeric
+@attribute ratio numeric
+@attribute ray numeric
+@attribute real numeric
+@attribute received numeric
+@attribute recorded numeric
+@attribute records numeric
+@attribute referees numeric
+@attribute region numeric
+@attribute relative numeric
+@attribute released numeric
+@attribute renaud numeric
+@attribute replaced numeric
+@attribute replies numeric
+@attribute reports numeric
+@attribute represents numeric
+@attribute reputed numeric
+@attribute retired numeric
+@attribute revolutionary numeric
+@attribute revolutions numeric
+@attribute richard numeric
+@attribute rider numeric
+@attribute rings numeric
+@attribute river numeric
+@attribute robust numeric
+@attribute rockefeller numeric
+@attribute rocky numeric
+@attribute rococo numeric
+@attribute rode numeric
+@attribute role numeric
+@attribute romania numeric
+@attribute rona numeric
+@attribute room numeric
+@attribute rosanne numeric
+@attribute rotary numeric
+@attribute rows numeric
+@attribute royal numeric
+@attribute runs numeric
+@attribute russian numeric
+@attribute russians numeric
+@attribute ruth numeric
+@attribute sacred numeric
+@attribute saddam numeric
+@attribute said numeric
+@attribute sally numeric
+@attribute salt numeric
+@attribute samuel numeric
+@attribute sang numeric
+@attribute santa numeric
+@attribute sara numeric
+@attribute sarge numeric
+@attribute saw numeric
+@attribute says numeric
+@attribute scandinavian numeric
+@attribute scholar numeric
+@attribute school numeric
+@attribute score numeric
+@attribute scottish numeric
+@attribute scoundrel numeric
+@attribute scrooge numeric
+@attribute sea numeric
+@attribute seaport numeric
+@attribute season numeric
+@attribute seats numeric
+@attribute secretary numeric
+@attribute section numeric
+@attribute seized numeric
+@attribute sells numeric
+@attribute senate numeric
+@attribute senator numeric
+@attribute sent numeric
+@attribute separates numeric
+@attribute sergeant numeric
+@attribute served numeric
+@attribute seven numeric
+@attribute shakespeare numeric
+@attribute shared numeric
+@attribute shea numeric
+@attribute sheep numeric
+@attribute sherlock numeric
+@attribute shillings numeric
+@attribute shortstop numeric
+@attribute shot numeric
+@attribute shots numeric
+@attribute should numeric
+@attribute showed numeric
+@attribute showers numeric
+@attribute sides numeric
+@attribute signed numeric
+@attribute silly numeric
+@attribute silversmith numeric
+@attribute sinclair numeric
+@attribute singer numeric
+@attribute singing numeric
+@attribute sings numeric
+@attribute sinn numeric
+@attribute sitcom numeric
+@attribute sites numeric
+@attribute skyline numeric
+@attribute small numeric
+@attribute snoopy numeric
+@attribute snow numeric
+@attribute soft numeric
+@attribute soldier numeric
+@attribute soldiers numeric
+@attribute some numeric
+@attribute son numeric
+@attribute sonnets numeric
+@attribute sonny numeric
+@attribute sons numeric
+@attribute sought numeric
+@attribute sound numeric
+@attribute south numeric
+@attribute southeast numeric
+@attribute southern numeric
+@attribute southwestern numeric
+@attribute soviet numeric
+@attribute space numeric
+@attribute spaces numeric
+@attribute spain numeric
+@attribute spanish numeric
+@attribute sparkles numeric
+@attribute spears numeric
+@attribute special numeric
+@attribute species numeric
+@attribute speech numeric
+@attribute sperm numeric
+@attribute spielberg numeric
+@attribute spiritual numeric
+@attribute spoke numeric
+@attribute sprawling numeric
+@attribute spy numeric
+@attribute square numeric
+@attribute squats numeric
+@attribute stadium numeric
+@attribute star numeric
+@attribute starred numeric
+@attribute stars numeric
+@attribute started numeric
+@attribute state numeric
+@attribute states numeric
+@attribute stationed numeric
+@attribute stations numeric
+@attribute stefan numeric
+@attribute stocks numeric
+@attribute stonehenge numeric
+@attribute stopped numeric
+@attribute store numeric
+@attribute stradivarius numeric
+@attribute strait numeric
+@attribute street numeric
+@attribute strip numeric
+@attribute stronger numeric
+@attribute students numeric
+@attribute studio numeric
+@attribute suburban numeric
+@attribute succeeded numeric
+@attribute sued numeric
+@attribute superbowls numeric
+@attribute supergirl numeric
+@attribute superman numeric
+@attribute surfing numeric
+@attribute surgeon numeric
+@attribute surrounds numeric
+@attribute suspect numeric
+@attribute swimming numeric
+@attribute syllables numeric
+@attribute talk numeric
+@attribute talking numeric
+@attribute tall numeric
+@attribute tallest numeric
+@attribute taught numeric
+@attribute team numeric
+@attribute teaspoons numeric
+@attribute teats numeric
+@attribute television numeric
+@attribute tell numeric
+@attribute temperance numeric
+@attribute tennis numeric
+@attribute tenths numeric
+@attribute terrorist numeric
+@attribute tesla numeric
+@attribute texas numeric
+@attribute thatcher numeric
+@attribute the numeric
+@attribute theatrical numeric
+@attribute their numeric
+@attribute theme numeric
+@attribute theo numeric
+@attribute there numeric
+@attribute these numeric
+@attribute they numeric
+@attribute third numeric
+@attribute thought numeric
+@attribute thousands numeric
+@attribute three numeric
+@attribute through numeric
+@attribute tiles numeric
+@attribute time numeric
+@attribute times numeric
+@attribute tiny numeric
+@attribute to numeric
+@attribute tokyo numeric
+@attribute told numeric
+@attribute took numeric
+@attribute tornado numeric
+@attribute tourist numeric
+@attribute tourists numeric
+@attribute town numeric
+@attribute tracy numeric
+@attribute train numeric
+@attribute tramped numeric
+@attribute trees numeric
+@attribute trinidad numeric
+@attribute tuberculosis numeric
+@attribute tufts numeric
+@attribute turned numeric
+@attribute tv numeric
+@attribute twin numeric
+@attribute two numeric
+@attribute ty numeric
+@attribute types numeric
+@attribute uncle numeric
+@attribute united numeric
+@attribute unsafe numeric
+@attribute up numeric
+@attribute upon numeric
+@attribute upstaged numeric
+@attribute url numeric
+@attribute us numeric
+@attribute used numeric
+@attribute valley numeric
+@attribute varieties numeric
+@attribute various numeric
+@attribute vegas numeric
+@attribute verses numeric
+@attribute viagra numeric
+@attribute vice numeric
+@attribute victor numeric
+@attribute victorian numeric
+@attribute video numeric
+@attribute vietnamese numeric
+@attribute villi numeric
+@attribute vincent numeric
+@attribute visitors numeric
+@attribute voice numeric
+@attribute volcano numeric
+@attribute volleyball numeric
+@attribute votes numeric
+@attribute wall numeric
+@attribute war numeric
+@attribute warmup numeric
+@attribute was numeric
+@attribute waste numeric
+@attribute waterways numeric
+@attribute watts numeric
+@attribute way numeric
+@attribute we numeric
+@attribute web numeric
+@attribute website numeric
+@attribute websites numeric
+@attribute webster numeric
+@attribute were numeric
+@attribute westview numeric
+@attribute what numeric
+@attribute when numeric
+@attribute where numeric
+@attribute which numeric
+@attribute who numeric
+@attribute whom numeric
+@attribute whose numeric
+@attribute wide numeric
+@attribute wild numeric
+@attribute wile numeric
+@attribute will numeric
+@attribute william numeric
+@attribute willy numeric
+@attribute windsor numeric
+@attribute wings numeric
+@attribute with numeric
+@attribute wives numeric
+@attribute woman numeric
+@attribute won numeric
+@attribute woodstock numeric
+@attribute woody numeric
+@attribute words numeric
+@attribute work numeric
+@attribute world numeric
+@attribute worth numeric
+@attribute would numeric
+@attribute wrestling numeric
+@attribute writer numeric
+@attribute wrote numeric
+@attribute yards numeric
+@attribute year numeric
+@attribute years numeric
+@attribute yemen numeric
+@attribute york numeric
+@attribute you numeric
+@attribute your numeric
+@attribute zebras numeric
+@attribute zeros numeric
+@attribute zip numeric
+
+@data
+{247 1,930 1,1136 1}
+{128 1,727 1,1056 1}
+{0 NUM:date,791 1,1124 1,1137 1}
+{1056 1,1124 1,1140 1}
+{433 1,576 1,1140 1}
+{0 LOC:state,1002 1,1011 1,1136 1}
+{0 NUM:count,515 1,560 1,653 1}
+{0 NUM:date,546 1,1056 1,1136 1}
+{374 1,660 1,727 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:state,1012 1,1091 1,1139 1}
+{0 NUM:count,515 1,653 1,831 1}
+{0 NUM:count,237 1,515 1,653 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 LOC:other,318 1,1056 1,1138 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:count,515 1,533 1,653 1}
+{262 1,1007 1,1136 1}
+{0 LOC:country,257 1,318 1,1136 1}
+{1056 1,1124 1,1140 1}
+{546 1,972 1,1140 1}
+{0 LOC:state,627 1,1011 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:country,172 1,257 1,1136 1}
+{318 1,489 1,1140 1}
+{0 LOC:city,209 1,475 1,1139 1}
+{0 LOC:other,49 1,1056 1,1136 1}
+{0 LOC:other,120 1,767 1,1136 1}
+{546 1,1056 1,1140 1}
+{531 1,1008 1,1140 1}
+{305 1,793 1,1136 1}
+{0 LOC:country,257 1,304 1,1136 1}
+{0 NUM:count,515 1,653 1,996 1}
+{0 LOC:state,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,1114 1}
+{0 LOC:country,257 1,304 1,1136 1}
+{1056 1,1134 1,1140 1}
+{0 NUM:date,531 1,1139 1,1166 1}
+{0 NUM:date,217 1,304 1,1137 1}
+{0 NUM:date,304 1,899 1,1137 1}
+{0 LOC:country,257 1,736 1,1136 1}
+{767 1,1056 1,1139 1}
+{241 1,1056 1,1140 1}
+{0 LOC:state,546 1,1011 1,1136 1}
+{0 LOC:mount,546 1,1056 1,1138 1}
+{0 LOC:other,80 1,320 1,1138 1}
+{0 LOC:other,49 1,1056 1,1136 1}
+{0 LOC:other,774 1,1056 1,1138 1}
+{0 NUM:money,515 1,700 1,716 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:period,320 1,515 1,633 1}
+{269 1,566 1,1136 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 NUM:money,515 1,716 1,1161 1}
+{10 1,475 1,1136 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:city,117 1,209 1,1136 1}
+{0 NUM:count,508 1,515 1,653 1}
+{339 1,1058 1,1140 1}
+{412 1,1056 1,1140 1}
+{63 1,648 1,1136 1}
+{0 NUM:count,100 1,515 1,653 1}
+{313 1,344 1,1140 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:country,984 1,1091 1,1136 1}
+{0 NUM:date,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{546 1,1056 1,1140 1}
+{0 LOC:other,1103 1,1136 1,1143 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 NUM:count,515 1,653 1,702 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{966 1,1056 1,1140 1}
+{310 1,558 1,1140 1}
+{0 NUM:count,222 1,515 1,653 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{546 1,1056 1,1136 1}
+{0 NUM:date,49 1,1056 1,1136 1}
+{0 LOC:country,246 1,257 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{264 1,292 1,1140 1}
+{334 1,876 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 LOC:country,256 1,476 1,1136 1}
+{28 1,144 1,727 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{9 1,915 1,1136 1}
+{367 1,1124 1,1136 1}
+{0 NUM:date,95 1,142 1,217 1}
+{0 LOC:city,31 1,984 1,1136 1}
+{0 NUM:count,515 1,653 1,996 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:volsize,546 1,1056 1,1136 1}
+{0 NUM:date,94 1,304 1,1137 1}
+{0 NUM:money,320 1,515 1,716 1}
+{0 LOC:country,364 1,1091 1,1136 1}
+{240 1,910 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:count,515 1,653 1,891 1}
+{0 LOC:mount,546 1,1056 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{1056 1,1124 1,1136 1}
+{0 NUM:count,515 1,653 1,984 1}
+{0 LOC:other,440 1,1124 1,1138 1}
+{0 NUM:count,515 1,653 1,804 1}
+{752 1,1140 1,1164 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{31 1,309 1,1136 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 LOC:other,596 1,1106 1,1136 1}
+{0 NUM:date,304 1,708 1,1137 1}
+{0 NUM:date,304 1,1137 1,1159 1}
+{0 NUM:count,383 1,515 1,653 1}
+{0 LOC:city,209 1,364 1,1136 1}
+{843 1,1124 1,1140 1}
+{1056 1,1124 1,1140 1}
+{1056 1,1124 1,1140 1}
+{49 1,1056 1,1140 1}
+{0 NUM:date,132 1,546 1,1137 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:date,304 1,999 1,1137 1}
+{0 NUM:volsize,546 1,1056 1,1136 1}
+{0 LOC:city,160 1,546 1,1136 1}
+{1056 1,1124 1,1140 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:country,257 1,364 1,1136 1}
+{0 LOC:other,205 1,1124 1,1138 1}
+{0 LOC:other,304 1,932 1,1136 1}
+{0 LOC:city,209 1,304 1,1136 1}
+{188 1,325 1,1139 1}
+{0 LOC:other,318 1,1006 1,1136 1}
+{475 1,1056 1,1140 1}
+{0 NUM:other,342 1,1124 1,1136 1}
+{0 NUM:date,282 1,1124 1,1136 1}
+{445 1,727 1,1136 1}
+{0 LOC:state,546 1,1011 1,1136 1}
+{0 LOC:state,475 1,1011 1,1136 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{1 1,644 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{115 1,258 1,1139 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 NUM:count,163 1,515 1,653 1}
+{304 1,799 1,1136 1}
+{157 1,405 1,1140 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,11 1,546 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{320 1,1056 1,1140 1}
+{541 1,1056 1,1140 1}
+{0 NUM:count,31 1,1056 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 NUM:speed,546 1,1056 1,1136 1}
+{9 1,397 1,1136 1}
+{0 LOC:other,546 1,764 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{0 NUM:count,515 1,653 1,979 1}
+{1056 1,1140 1,1154 1}
+{0 LOC:city,209 1,304 1,1139 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:speed,546 1,1056 1,1136 1}
+{767 1,915 1,1140 1}
+{286 1,525 1,1140 1}
+{0 LOC:other,201 1,320 1,1138 1}
+{605 1,988 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{1056 1,1140 1,1164 1}
+{0 NUM:count,91 1,515 1,653 1}
+{546 1,1056 1,1140 1}
+{0 LOC:mount,619 1,711 1,1136 1}
+{876 1,1056 1,1140 1}
+{0 LOC:other,215 1,1056 1,1136 1}
+{0 NUM:count,359 1,515 1,653 1}
+{1056 1,1124 1,1136 1}
+{1012 1,1095 1,1136 1}
+{0 LOC:other,84 1,546 1,1138 1}
+{0 NUM:date,767 1,1070 1,1136 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{0 LOC:city,584 1,984 1,1136 1}
+{0 NUM:count,515 1,653 1,1093 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:mount,1056 1,1124 1,1136 1}
+{0 LOC:other,1056 1,1124 1,1138 1}
+{0 LOC:country,257 1,804 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 LOC:city,183 1,746 1,1136 1}
+{627 1,843 1,1136 1}
+{0 LOC:other,1 1,723 1,1138 1}
+{0 LOC:state,531 1,1011 1,1136 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{374 1,696 1,1136 1}
+{0 NUM:money,515 1,700 1,716 1}
+{275 1,540 1,1140 1}
+{546 1,1056 1,1140 1}
+{0 LOC:mount,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,852 1,1138 1}
+{0 LOC:other,294 1,475 1,1136 1}
+{0 NUM:count,515 1,653 1,689 1}
+{0 NUM:count,515 1,716 1,973 1}
+{0 NUM:date,320 1,1056 1,1137 1}
+{9 1,70 1,1136 1}
+{664 1,910 1,1136 1}
+{0 LOC:other,500 1,1056 1,1138 1}
+{823 1,1056 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:other,304 1,922 1,1138 1}
+{1056 1,1140 1,1164 1}
+{0 LOC:country,257 1,304 1,1136 1}
+{707 1,792 1,1140 1}
+{0 NUM:speed,546 1,1056 1,1136 1}
+{0 LOC:other,50 1,531 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{654 1,1124 1,1136 1}
+{0 LOC:other,318 1,524 1,1138 1}
+{475 1,703 1,1140 1}
+{0 NUM:count,515 1,653 1,879 1}
+{0 NUM:date,546 1,1056 1,1137 1}
+{166 1,1097 1,1140 1}
+{303 1,475 1,1136 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{968 1,1089 1,1136 1}
+{574 1,1056 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:count,289 1,515 1,653 1}
+{55 1,992 1,1136 1}
+{760 1,1003 1,1136 1}
+{0 NUM:period,320 1,515 1,633 1}
+{870 1,1124 1,1140 1}
+{0 LOC:other,582 1,1124 1,1136 1}
+{1056 1,1124 1,1140 1}
+{727 1,872 1,1056 1}
+{546 1,1056 1,1140 1}
+{0 LOC:city,21 1,546 1,670 1}
+{0 NUM:perc,415 1,767 1,1136 1}
+{0 LOC:country,257 1,475 1,1136 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{0 NUM:money,515 1,716 1,1161 1}
+{0 LOC:country,257 1,475 1,1136 1}
+{546 1,1056 1,1140 1}
+{397 1,844 1,1142 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{0 NUM:count,515 1,537 1,653 1}
+{0 NUM:date,217 1,304 1,1137 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 NUM:code,546 1,1056 1,1136 1}
+{82 1,541 1,1140 1}
+{0 NUM:count,515 1,653 1,1152 1}
+{0 NUM:dist,515 1,546 1,633 1}
+{0 LOC:city,209 1,429 1,1136 1}
+{954 1,1124 1,1140 1}
+{0 NUM:count,221 1,515 1,653 1}
+{0 LOC:city,910 1,933 1,1136 1}
+{0 LOC:other,168 1,1016 1,1138 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 NUM:date,304 1,717 1,1137 1}
+{0 LOC:mount,318 1,804 1,1138 1}
+{0 LOC:country,49 1,1056 1,1136 1}
+{0 LOC:other,774 1,1056 1,1138 1}
+{0 LOC:state,124 1,1011 1,1136 1}
+{0 NUM:temp,546 1,1056 1,1136 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{1007 1,1136 1,1162 1}
+{0 LOC:other,67 1,1079 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,546 1,852 1,1138 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{488 1,1124 1,1136 1}
+{541 1,1056 1,1140 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:count,327 1,515 1,653 1}
+{0 NUM:count,484 1,515 1,653 1}
+{0 LOC:country,1056 1,1124 1,1136 1}
+{82 1,1007 1,1136 1}
+{431 1,1112 1,1136 1}
+{0 NUM:count,501 1,515 1,653 1}
+{0 LOC:other,209 1,531 1,1136 1}
+{230 1,1089 1,1136 1}
+{0 NUM:perc,767 1,806 1,1136 1}
+{0 NUM:money,36 1,320 1,1136 1}
+{823 1,1056 1,1140 1}
+{305 1,383 1,1140 1}
+{0 NUM:date,546 1,1056 1,1137 1}
+{397 1,727 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:other,109 1,546 1,1136 1}
+{0 LOC:city,209 1,910 1,1136 1}
+{0 NUM:date,85 1,546 1,1137 1}
+{0 NUM:count,515 1,653 1,955 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:date,282 1,767 1,1136 1}
+{0 LOC:other,546 1,1085 1,1138 1}
+{457 1,1056 1,1140 1}
+{837 1,838 1,1140 1}
+{0 NUM:speed,378 1,515 1,546 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 LOC:other,1042 1,1056 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:count,515 1,653 1,865 1}
+{49 1,1056 1,1136 1}
+{0 NUM:ord,187 1,767 1,1136 1}
+{546 1,1056 1,1140 1}
+{57 1,605 1,1136 1}
+{0 NUM:speed,320 1,378 1,515 1}
+{0 LOC:mount,546 1,1056 1,1136 1}
+{0 LOC:other,46 1,168 1,1136 1}
+{966 1,1056 1,1140 1}
+{0 NUM:period,515 1,633 1,956 1}
+{0 LOC:other,318 1,1128 1,1139 1}
+{0 LOC:country,546 1,1056 1,1139 1}
+{546 1,1056 1,1140 1}
+{49 1,1056 1,1136 1}
+{0 LOC:country,257 1,546 1,1139 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{278 1,320 1,1140 1}
+{1056 1,1124 1,1136 1}
+{0 LOC:state,546 1,1056 1,1136 1}
+{1056 1,1134 1,1140 1}
+{0 NUM:count,515 1,653 1,998 1}
+{0 NUM:dist,318 1,376 1,515 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{748 1,1056 1,1136 1}
+{0 NUM:other,1056 1,1124 1,1136 1}
+{0 NUM:dist,168 1,376 1,515 1}
+{0 LOC:other,623 1,1124 1,1138 1}
+{0 NUM:count,1056 1,1124 1,1136 1}
+{70 1,546 1,1142 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{0 NUM:perc,767 1,806 1,1136 1}
+{0 NUM:date,397 1,1056 1,1136 1}
+{0 LOC:city,209 1,1124 1,1136 1}
+{0 LOC:city,209 1,475 1,1136 1}
+{211 1,479 1,1140 1}
+{0 NUM:count,289 1,515 1,653 1}
+{328 1,1040 1,1136 1}
+{0 LOC:city,49 1,1056 1,1136 1}
+{469 1,1136 1,1163 1}
+{0 NUM:count,515 1,603 1,653 1}
+{1056 1,1124 1,1136 1}
+{0 LOC:other,258 1,546 1,1136 1}
+{0 NUM:dist,546 1,1056 1,1136 1}
+{728 1,1124 1,1140 1}
+{0 NUM:money,36 1,320 1,1136 1}
+{69 1,591 1,1136 1}
+{0 NUM:count,32 1,515 1,653 1}
+{0 NUM:count,515 1,653 1,765 1}
+{0 NUM:count,515 1,653 1,794 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{601 1,1136 1,1154 1}
+{290 1,494 1,1140 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:perc,622 1,805 1,1136 1}
+{0 LOC:other,152 1,320 1,1138 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{82 1,410 1,1136 1}
+{684 1,1124 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:country,57 1,257 1,1136 1}
+{0 NUM:count,395 1,515 1,653 1}
+{0 NUM:date,521 1,1124 1,1137 1}
+{1056 1,1124 1,1136 1}
+{0 NUM:money,1056 1,1124 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{213 1,992 1,1136 1}
+{9 1,658 1,1136 1}
+{396 1,655 1,1140 1}
+{0 NUM:period,55 1,552 1,1056 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{843 1,957 1,1136 1}
+{260 1,546 1,1142 1}
+{410 1,843 1,1136 1}
+{188 1,387 1,1136 1}
+{431 1,635 1,1136 1}
+{1056 1,1134 1,1140 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 LOC:other,546 1,715 1,1138 1}
+{0 NUM:count,515 1,653 1,702 1}
+{546 1,1056 1,1136 1}
+{0 LOC:city,209 1,513 1,1136 1}
+{0 NUM:money,515 1,716 1,1124 1}
+{541 1,961 1,1140 1}
+{801 1,1056 1,1140 1}
+{0 NUM:count,515 1,653 1,1113 1}
+{0 NUM:count,72 1,515 1,774 1}
+{264 1,851 1,1140 1}
+{0 LOC:country,546 1,1056 1,1136 1}
+{220 1,1056 1,1140 1}
+{546 1,1056 1,1136 1}
+{600 1,1124 1,1140 1}
+{0 NUM:count,473 1,515 1,653 1}
+{0 NUM:count,515 1,653 1,804 1}
+{242 1,915 1,1136 1}
+{264 1,1056 1,1140 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1138 1,1149 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:state,320 1,1011 1,1136 1}
+{0 LOC:country,49 1,1056 1,1136 1}
+{0 LOC:other,813 1,1056 1,1138 1}
+{0 LOC:other,546 1,1077 1,1138 1}
+{1056 1,1124 1,1140 1}
+{31 1,830 1,1136 1}
+{0 LOC:state,531 1,1011 1,1136 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{792 1,1056 1,1140 1}
+{727 1,1056 1,1105 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{368 1,405 1,1136 1}
+{10 1,546 1,1140 1}
+{79 1,812 1,1140 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 NUM:count,178 1,515 1,653 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{49 1,1056 1,1136 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{0 LOC:other,634 1,1056 1,1136 1}
+{0 NUM:date,101 1,1124 1,1137 1}
+{0 NUM:count,515 1,653 1,990 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{0 LOC:mount,709 1,871 1,1136 1}
+{749 1,1124 1,1140 1}
+{0 NUM:count,180 1,515 1,653 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{0 LOC:other,913 1,1056 1,1136 1}
+{0 LOC:country,546 1,1015 1,1136 1}
+{0 NUM:count,468 1,515 1,653 1}
+{0 LOC:country,595 1,727 1,1056 1}
+{31 1,1124 1,1136 1}
+{69 1,304 1,1136 1}
+{0 LOC:country,49 1,257 1,1136 1}
+{727 1,830 1,1056 1}
+{0 LOC:state,878 1,1011 1,1136 1}
+{0 LOC:city,209 1,1054 1,1136 1}
+{0 LOC:country,257 1,304 1,1136 1}
+{81 1,568 1,1136 1}
+{843 1,1124 1,1140 1}
+{0 LOC:country,257 1,475 1,1136 1}
+{0 LOC:country,256 1,1091 1,1136 1}
+{185 1,1124 1,1140 1}
+{9 1,1008 1,1136 1}
+{0 NUM:count,502 1,515 1,653 1}
+{0 LOC:city,209 1,531 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{546 1,1056 1,1140 1}
+{102 1,884 1,1140 1}
+{0 NUM:count,135 1,515 1,653 1}
+{0 NUM:date,49 1,950 1,1137 1}
+{0 LOC:other,547 1,1056 1,1136 1}
+{0 NUM:date,184 1,320 1,1136 1}
+{0 NUM:count,60 1,515 1,653 1}
+{0 LOC:other,546 1,630 1,1138 1}
+{1056 1,1124 1,1140 1}
+{451 1,475 1,1136 1}
+{611 1,719 1,1140 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{767 1,1056 1,1139 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 LOC:state,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,1025 1}
+{525 1,915 1,1140 1}
+{363 1,838 1,1140 1}
+{0 LOC:other,727 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{1056 1,1124 1,1140 1}
+{838 1,905 1,1140 1}
+{92 1,964 1,1136 1}
+{0 NUM:date,304 1,543 1,1137 1}
+{374 1,965 1,1136 1}
+{0 NUM:perc,546 1,1056 1,1136 1}
+{0 NUM:count,169 1,515 1,653 1}
+{442 1,1124 1,1140 1}
+{0 NUM:count,306 1,515 1,653 1}
+{0 NUM:date,1124 1,1136 1,1166 1}
+{87 1,541 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{1056 1,1124 1,1136 1}
+{0 LOC:other,632 1,1022 1,1136 1}
+{0 LOC:city,209 1,531 1,1136 1}
+{0 NUM:money,304 1,515 1,716 1}
+{0 LOC:other,546 1,1087 1,1138 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 NUM:count,354 1,515 1,653 1}
+{0 NUM:dist,515 1,633 1,1124 1}
+{0 NUM:weight,1 1,320 1,1136 1}
+{0 LOC:state,546 1,857 1,1136 1}
+{304 1,980 1,1140 1}
+{0 NUM:date,546 1,659 1,1136 1}
+{315 1,843 1,1136 1}
+{546 1,1112 1,1142 1}
+{0 NUM:count,515 1,556 1,653 1}
+{0 NUM:volsize,515 1,546 1,594 1}
+{0 NUM:count,344 1,515 1,716 1}
+{0 NUM:count,8 1,515 1,653 1}
+{1056 1,1090 1,1140 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 NUM:count,458 1,515 1,653 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{0 LOC:country,257 1,876 1,1136 1}
+{0 NUM:count,515 1,653 1,1038 1}
+{0 LOC:other,139 1,546 1,1136 1}
+{30 1,1124 1,1140 1}
+{0 NUM:count,198 1,515 1,653 1}
+{62 1,628 1,1140 1}
+{0 LOC:state,49 1,1056 1,1136 1}
+{0 LOC:other,463 1,546 1,1138 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:count,515 1,653 1,804 1}
+{29 1,546 1,1140 1}
+{304 1,553 1,1140 1}
+{0 NUM:count,515 1,653 1,1009 1}
+{982 1,1073 1,1140 1}
+{0 LOC:other,49 1,1078 1,1136 1}
+{0 NUM:dist,49 1,1056 1,1136 1}
+{915 1,976 1,1140 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 LOC:city,209 1,223 1,1136 1}
+{0 NUM:money,320 1,515 1,716 1}
+{546 1,1056 1,1140 1}
+{0 LOC:other,304 1,464 1,1138 1}
+{0 LOC:country,256 1,1091 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{49 1,1056 1,1136 1}
+{546 1,1056 1,1139 1}
+{0 LOC:city,172 1,364 1,1136 1}
+{0 LOC:country,257 1,1124 1,1136 1}
+{0 NUM:perc,1055 1,1124 1,1136 1}
+{0 NUM:count,163 1,515 1,653 1}
+{0 LOC:state,531 1,1011 1,1136 1}
+{0 LOC:country,257 1,531 1,1136 1}
+{0 LOC:other,478 1,774 1,1139 1}
+{177 1,382 1,1136 1}
+{0 NUM:date,302 1,1124 1,1137 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{0 LOC:other,294 1,475 1,1136 1}
+{0 LOC:country,256 1,1091 1,1136 1}
+{0 NUM:period,515 1,633 1,1124 1}
+{0 NUM:code,761 1,814 1,1136 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 LOC:other,248 1,727 1,1136 1}
+{1056 1,1124 1,1140 1}
+{118 1,304 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:date,282 1,546 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:volsize,107 1,515 1,546 1}
+{0 LOC:country,257 1,1124 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{601 1,727 1,1056 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:other,710 1,880 1,1136 1}
+{0 NUM:period,320 1,515 1,633 1}
+{62 1,628 1,1140 1}
+{0 NUM:count,515 1,653 1,868 1}
+{519 1,823 1,1140 1}
+{546 1,571 1,1140 1}
+{823 1,1056 1,1140 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:count,515 1,653 1,1004 1}
+{546 1,1056 1,1136 1}
+{1056 1,1124 1,1140 1}
+{228 1,475 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:date,132 1,282 1,546 1}
+{1056 1,1124 1,1140 1}
+{644 1,1124 1,1140 1}
+{0 LOC:other,892 1,1124 1,1138 1}
+{0 NUM:ord,320 1,1056 1,1138 1}
+{0 NUM:perc,1056 1,1124 1,1136 1}
+{727 1,767 1,926 1}
+{0 NUM:date,304 1,549 1,1137 1}
+{727 1,774 1,1056 1}
+{0 NUM:count,352 1,515 1,716 1}
+{546 1,582 1,1140 1}
+{0 LOC:other,49 1,1056 1,1136 1}
+{0 LOC:country,37 1,257 1,1136 1}
+{0 LOC:other,44 1,145 1,1136 1}
+{82 1,1044 1,1136 1}
+{1124 1,1140 1,1151 1}
+{546 1,1056 1,1136 1}
+{0 LOC:other,546 1,893 1,1138 1}
+{131 1,621 1,1136 1}
+{13 1,625 1,1140 1}
+{0 LOC:other,1056 1,1124 1,1138 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:count,506 1,515 1,653 1}
+{0 NUM:count,515 1,716 1,1125 1}
+{599 1,754 1,1136 1}
+{475 1,1136 1,1153 1}
+{0 NUM:count,515 1,653 1,694 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1131 1,1136 1}
+{0 LOC:other,49 1,767 1,1138 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:count,60 1,515 1,653 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{129 1,578 1,1139 1}
+{0 LOC:city,546 1,776 1,1136 1}
+{281 1,767 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:mount,546 1,1056 1,1136 1}
+{229 1,1099 1,1136 1}
+{0 NUM:date,1056 1,1134 1,1137 1}
+{0 LOC:other,483 1,546 1,1138 1}
+{0 LOC:city,595 1,1056 1,1136 1}
+{3 1,919 1,1140 1}
+{252 1,296 1,1136 1}
+{0 NUM:count,515 1,653 1,907 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{0 LOC:other,932 1,943 1,1136 1}
+{0 NUM:count,515 1,602 1,653 1}
+{113 1,727 1,1056 1}
+{83 1,736 1,1136 1}
+{0 NUM:date,304 1,418 1,1137 1}
+{0 NUM:count,432 1,515 1,653 1}
+{298 1,1056 1,1140 1}
+{644 1,1056 1,1140 1}
+{0 LOC:country,211 1,257 1,1136 1}
+{0 NUM:count,515 1,653 1,868 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{188 1,304 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{57 1,1000 1,1136 1}
+{0 LOC:other,546 1,766 1,1138 1}
+{0 LOC:other,320 1,764 1,1136 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{0 LOC:city,671 1,1048 1,1136 1}
+{0 LOC:other,109 1,546 1,1136 1}
+{356 1,867 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 NUM:money,320 1,515 1,716 1}
+{82 1,1091 1,1136 1}
+{0 NUM:perc,106 1,198 1,767 1}
+{0 LOC:state,757 1,1056 1,1136 1}
+{0 LOC:other,36 1,53 1,727 1}
+{939 1,1108 1,1140 1}
+{0 LOC:other,49 1,145 1,1136 1}
+{304 1,316 1,1140 1}
+{0 LOC:country,257 1,1124 1,1136 1}
+{56 1,945 1,1140 1}
+{0 NUM:code,227 1,546 1,1136 1}
+{767 1,776 1,1139 1}
+{546 1,1056 1,1140 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 LOC:other,248 1,546 1,1136 1}
+{576 1,703 1,1140 1}
+{0 LOC:state,475 1,1011 1,1136 1}
+{0 NUM:count,1056 1,1124 1,1136 1}
+{228 1,724 1,1136 1}
+{0 NUM:money,320 1,337 1,1136 1}
+{9 1,37 1,1136 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{329 1,838 1,1140 1}
+{0 NUM:date,398 1,1134 1,1137 1}
+{381 1,843 1,1136 1}
+{0 NUM:count,346 1,515 1,653 1}
+{0 LOC:country,257 1,1124 1,1136 1}
+{0 LOC:city,209 1,1124 1,1136 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 NUM:money,168 1,1136 1,1170 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{0 NUM:count,515 1,716 1,1146 1}
+{725 1,1136 1,1163 1}
+{0 LOC:state,425 1,1011 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,967 1,1138 1}
+{0 NUM:date,544 1,598 1,1056 1}
+{0 LOC:country,257 1,757 1,1136 1}
+{0 LOC:other,320 1,983 1,1136 1}
+{0 LOC:city,209 1,572 1,1136 1}
+{0 NUM:count,49 1,515 1,653 1}
+{0 LOC:country,257 1,364 1,1136 1}
+{0 LOC:state,546 1,1011 1,1136 1}
+{0 LOC:other,1056 1,1124 1,1138 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{546 1,1056 1,1136 1}
+{844 1,846 1,1136 1}
+{767 1,1062 1,1139 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:date,546 1,843 1,1137 1}
+{272 1,1124 1,1142 1}
+{0 LOC:other,49 1,1056 1,1136 1}
+{727 1,1056 1,1136 1}
+{541 1,1056 1,1140 1}
+{188 1,387 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{320 1,947 1,1140 1}
+{0 LOC:country,257 1,546 1,1139 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{546 1,1056 1,1140 1}
+{235 1,1091 1,1136 1}
+{266 1,727 1,1056 1}
+{525 1,885 1,1140 1}
+{0 LOC:other,502 1,1056 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{1056 1,1140 1,1154 1}
+{397 1,727 1,1056 1}
+{407 1,1124 1,1136 1}
+{964 1,966 1,1136 1}
+{0 NUM:count,515 1,716 1,821 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:state,475 1,1011 1,1136 1}
+{0 LOC:state,502 1,1011 1,1136 1}
+{0 NUM:speed,318 1,378 1,515 1}
+{0 NUM:speed,378 1,515 1,546 1}
+{254 1,304 1,1136 1}
+{0 NUM:perc,49 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:dist,376 1,515 1,546 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{0 LOC:other,320 1,1056 1,1138 1}
+{0 LOC:city,209 1,531 1,1139 1}
+{0 NUM:period,515 1,546 1,770 1}
+{1056 1,1124 1,1140 1}
+{546 1,642 1,1140 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:other,1056 1,1124 1,1136 1}
+{0 NUM:date,1056 1,1137 1,1146 1}
+{264 1,1056 1,1140 1}
+{1052 1,1113 1,1139 1}
+{0 LOC:other,318 1,1129 1,1136 1}
+{0 LOC:country,172 1,257 1,1136 1}
+{0 LOC:other,320 1,874 1,1138 1}
+{546 1,1056 1,1140 1}
+{1 1,362 1,1140 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:other,304 1,503 1,1138 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,675 1}
+{37 1,954 1,1140 1}
+{428 1,843 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:dist,49 1,1056 1,1136 1}
+{0 NUM:date,217 1,1124 1,1137 1}
+{0 LOC:country,15 1,257 1,1136 1}
+{1056 1,1124 1,1136 1}
+{55 1,482 1,1136 1}
+{981 1,1140 1,1164 1}
+{0 LOC:city,422 1,933 1,1136 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 NUM:count,515 1,653 1,692 1}
+{193 1,536 1,1136 1}
+{0 NUM:date,165 1,1134 1,1137 1}
+{0 NUM:perc,546 1,1056 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:country,256 1,476 1,1136 1}
+{1124 1,1136 1,1147 1}
+{304 1,892 1,1140 1}
+{767 1,1056 1,1139 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,1012 1}
+{0 NUM:count,515 1,653 1,952 1}
+{788 1,1076 1,1140 1}
+{605 1,740 1,1136 1}
+{0 NUM:other,136 1,761 1,1136 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{105 1,758 1,1140 1}
+{1056 1,1076 1,1140 1}
+{1056 1,1134 1,1140 1}
+{546 1,1013 1,1140 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 NUM:dist,515 1,546 1,1041 1}
+{9 1,330 1,1136 1}
+{0 NUM:period,304 1,515 1,633 1}
+{0 NUM:count,515 1,716 1,767 1}
+{0 LOC:other,546 1,589 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{1056 1,1140 1,1164 1}
+{546 1,1056 1,1136 1}
+{212 1,1073 1,1140 1}
+{10 1,504 1,1136 1}
+{1056 1,1124 1,1136 1}
+{861 1,961 1,1124 1}
+{541 1,1056 1,1140 1}
+{304 1,600 1,1141 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{0 LOC:city,209 1,780 1,1136 1}
+{0 NUM:period,37 1,455 1,949 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{240 1,1124 1,1136 1}
+{0 NUM:count,515 1,653 1,1100 1}
+{0 NUM:period,16 1,515 1,633 1}
+{264 1,1056 1,1140 1}
+{546 1,1056 1,1140 1}
+{0 LOC:other,26 1,49 1,1138 1}
+{1056 1,1124 1,1140 1}
+{293 1,1019 1,1136 1}
+{0 LOC:city,1056 1,1124 1,1136 1}
+{0 LOC:state,475 1,1011 1,1136 1}
+{0 LOC:state,351 1,1011 1,1136 1}
+{0 NUM:count,515 1,653 1,1104 1}
+{0 LOC:other,49 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{167 1,1124 1,1140 1}
+{838 1,1056 1,1140 1}
+{0 NUM:money,515 1,700 1,716 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 LOC:country,117 1,257 1,1136 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 LOC:other,592 1,680 1,1136 1}
+{0 LOC:other,168 1,776 1,1138 1}
+{0 LOC:city,209 1,531 1,1136 1}
+{1056 1,1140 1,1154 1}
+{267 1,1124 1,1140 1}
+{0 LOC:country,737 1,1124 1,1136 1}
+{0 NUM:count,515 1,716 1,767 1}
+{0 NUM:date,867 1,1124 1,1137 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 LOC:other,546 1,1136 1,1160 1}
+{0 NUM:date,1124 1,1137 1,1168 1}
+{605 1,681 1,1136 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 NUM:other,49 1,1056 1,1136 1}
+{0 LOC:other,546 1,920 1,1138 1}
+{385 1,793 1,1136 1}
+{49 1,729 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{107 1,264 1,1140 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{0 LOC:state,836 1,1011 1,1136 1}
+{0 LOC:state,531 1,1011 1,1136 1}
+{0 NUM:date,23 1,304 1,1137 1}
+{0 LOC:country,257 1,304 1,1136 1}
+{0 NUM:period,515 1,633 1,1124 1}
+{0 NUM:count,515 1,653 1,804 1}
+{10 1,1124 1,1136 1}
+{823 1,1056 1,1140 1}
+{541 1,1056 1,1140 1}
+{0 NUM:date,304 1,517 1,1137 1}
+{0 LOC:city,209 1,531 1,1136 1}
+{0 LOC:other,1022 1,1074 1,1136 1}
+{0 NUM:period,1056 1,1124 1,1136 1}
+{687 1,712 1,1137 1}
+{0 NUM:count,515 1,653 1,845 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{546 1,733 1,1136 1}
+{0 NUM:count,314 1,515 1,653 1}
+{0 NUM:period,515 1,546 1,770 1}
+{0 NUM:perc,767 1,806 1,1136 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 LOC:country,49 1,257 1,1136 1}
+{747 1,1136 1,1169 1}
+{244 1,546 1,1140 1}
+{744 1,803 1,1140 1}
+{481 1,497 1,1140 1}
+{0 LOC:city,31 1,984 1,1136 1}
+{0 LOC:city,209 1,443 1,1136 1}
+{0 LOC:other,462 1,547 1,1136 1}
+{1 1,546 1,1136 1}
+{0 LOC:other,487 1,1124 1,1138 1}
+{644 1,1056 1,1140 1}
+{296 1,422 1,1136 1}
+{0 NUM:date,546 1,934 1,1136 1}
+{228 1,1124 1,1136 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{40 1,59 1,1136 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 LOC:mount,546 1,1056 1,1136 1}
+{452 1,626 1,1136 1}
+{1056 1,1124 1,1136 1}
+{0 NUM:date,279 1,701 1,1136 1}
+{0 NUM:count,270 1,515 1,653 1}
+{0 LOC:other,1056 1,1136 1,1159 1}
+{0 LOC:country,364 1,1067 1,1136 1}
+{0 NUM:count,340 1,515 1,653 1}
+{644 1,1017 1,1140 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{413 1,1056 1,1140 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,1056 1,1136 1,1159 1}
+{0 LOC:city,57 1,209 1,1136 1}
+{0 NUM:date,559 1,1137 1,1146 1}
+{374 1,975 1,1136 1}
+{0 LOC:city,1056 1,1134 1,1136 1}
+{0 LOC:other,245 1,246 1,1136 1}
+{0 NUM:count,515 1,653 1,679 1}
+{0 LOC:other,372 1,632 1,1136 1}
+{0 NUM:count,515 1,653 1,690 1}
+{0 LOC:other,304 1,479 1,1138 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{546 1,683 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:period,515 1,546 1,633 1}
+{0 LOC:other,320 1,707 1,1138 1}
+{0 NUM:other,835 1,1056 1,1136 1}
+{1010 1,1056 1,1140 1}
+{0 NUM:period,515 1,546 1,770 1}
+{741 1,825 1,1139 1}
+{0 NUM:count,224 1,515 1,653 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:other,175 1,547 1,1136 1}
+{0 LOC:other,34 1,546 1,1138 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{546 1,1056 1,1140 1}
+{0 LOC:city,68 1,209 1,1136 1}
+{263 1,727 1,870 1}
+{0 LOC:other,320 1,895 1,1136 1}
+{0 NUM:other,49 1,515 1,769 1}
+{0 NUM:count,515 1,653 1,845 1}
+{1 1,546 1,1136 1}
+{838 1,1115 1,1140 1}
+{0 LOC:other,1 1,546 1,1136 1}
+{0 NUM:date,96 1,934 1,1136 1}
+{582 1,1124 1,1140 1}
+{0 LOC:other,155 1,304 1,1138 1}
+{0 LOC:other,440 1,546 1,1136 1}
+{546 1,1056 1,1140 1}
+{770 1,915 1,1140 1}
+{0 NUM:dist,515 1,633 1,1134 1}
+{778 1,1056 1,1140 1}
+{0 LOC:city,209 1,573 1,1136 1}
+{546 1,1056 1,1136 1}
+{0 LOC:state,414 1,1012 1,1136 1}
+{1056 1,1124 1,1140 1}
+{647 1,1111 1,1136 1}
+{0 NUM:date,1134 1,1136 1,1166 1}
+{0 LOC:other,49 1,1056 1,1136 1}
+{0 LOC:other,49 1,1056 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 LOC:other,774 1,1056 1,1138 1}
+{0 NUM:count,455 1,949 1,1056 1}
+{706 1,1056 1,1136 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{0 LOC:other,119 1,304 1,1138 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 NUM:count,343 1,515 1,653 1}
+{0 LOC:city,1056 1,1134 1,1136 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 LOC:country,256 1,476 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:date,546 1,1056 1,1136 1}
+{0 LOC:other,304 1,421 1,1138 1}
+{0 NUM:count,404 1,515 1,716 1}
+{0 NUM:count,158 1,515 1,716 1}
+{0 LOC:country,256 1,1091 1,1136 1}
+{0 NUM:code,227 1,546 1,1136 1}
+{0 NUM:date,304 1,849 1,1137 1}
+{0 LOC:country,257 1,304 1,1139 1}
+{310 1,1056 1,1140 1}
+{0 LOC:city,130 1,781 1,1056 1}
+{228 1,1124 1,1136 1}
+{0 NUM:count,515 1,612 1,653 1}
+{0 LOC:state,1011 1,1124 1,1136 1}
+{0 NUM:count,388 1,515 1,653 1}
+{830 1,1136 1,1164 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{0 NUM:period,318 1,515 1,633 1}
+{38 1,909 1,1140 1}
+{0 LOC:state,853 1,1011 1,1136 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{0 LOC:other,453 1,548 1,1136 1}
+{69 1,767 1,1136 1}
+{843 1,1124 1,1136 1}
+{232 1,767 1,1136 1}
+{0 NUM:count,383 1,515 1,653 1}
+{0 LOC:country,1056 1,1124 1,1136 1}
+{541 1,1056 1,1140 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{0 LOC:country,546 1,1056 1,1136 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:count,515 1,653 1,1030 1}
+{546 1,1056 1,1140 1}
+{767 1,1056 1,1139 1}
+{0 NUM:other,1 1,807 1,1136 1}
+{0 LOC:city,172 1,1056 1,1136 1}
+{58 1,1140 1,1170 1}
+{843 1,945 1,1136 1}
+{331 1,546 1,1136 1}
+{546 1,1031 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{644 1,1056 1,1140 1}
+{546 1,1056 1,1136 1}
+{0 NUM:date,279 1,774 1,1136 1}
+{0 NUM:perc,49 1,1056 1,1136 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 NUM:count,394 1,515 1,653 1}
+{546 1,1056 1,1140 1}
+{722 1,810 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:count,515 1,653 1,703 1}
+{88 1,460 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{0 LOC:city,49 1,1056 1,1136 1}
+{228 1,374 1,1136 1}
+{0 LOC:other,331 1,546 1,1136 1}
+{0 LOC:country,737 1,1134 1,1136 1}
+{373 1,1089 1,1136 1}
+{358 1,1109 1,1136 1}
+{190 1,1124 1,1140 1}
+{39 1,966 1,1140 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 NUM:date,1056 1,1124 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{188 1,304 1,1136 1}
+{0 LOC:other,932 1,1035 1,1136 1}
+{0 NUM:count,306 1,515 1,653 1}
+{0 LOC:other,764 1,1124 1,1136 1}
+{1056 1,1124 1,1136 1}
+{0 LOC:country,257 1,786 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 LOC:state,546 1,1056 1,1136 1}
+{0 NUM:other,835 1,1056 1,1136 1}
+{0 LOC:other,160 1,294 1,1136 1}
+{471 1,1140 1,1164 1}
+{0 LOC:other,318 1,1056 1,1138 1}
+{0 LOC:country,15 1,257 1,1136 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{0 LOC:city,130 1,781 1,1056 1}
+{304 1,858 1,1136 1}
+{546 1,1056 1,1136 1}
+{191 1,384 1,1136 1}
+{0 NUM:count,515 1,603 1,653 1}
+{0 LOC:other,742 1,1056 1,1136 1}
+{0 LOC:other,538 1,546 1,1138 1}
+{0 NUM:count,1056 1,1124 1,1136 1}
+{0 NUM:count,515 1,653 1,1014 1}
+{1056 1,1124 1,1140 1}
+{499 1,1056 1,1140 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{0 LOC:other,822 1,1136 1,1161 1}
+{0 LOC:other,546 1,734 1,1138 1}
+{1056 1,1140 1,1164 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{408 1,823 1,1140 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{0 LOC:other,320 1,1056 1,1138 1}
+{0 NUM:count,198 1,515 1,653 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{0 NUM:count,515 1,716 1,917 1}
+{607 1,1056 1,1140 1}
+{1140 1,1154 1,1159 1}
+{0 LOC:other,320 1,1056 1,1138 1}
+{0 LOC:country,16 1,257 1,1136 1}
+{434 1,1124 1,1140 1}
+{1056 1,1124 1,1136 1}
+{0 NUM:count,515 1,653 1,1009 1}
+{0 NUM:count,515 1,653 1,1150 1}
+{0 LOC:country,257 1,475 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:state,475 1,1011 1,1136 1}
+{0 NUM:dist,515 1,546 1,633 1}
+{727 1,1056 1,1091 1}
+{0 LOC:other,304 1,643 1,1138 1}
+{0 LOC:other,546 1,895 1,1136 1}
+{0 NUM:count,515 1,653 1,689 1}
+{0 LOC:other,277 1,546 1,1138 1}
+{1039 1,1089 1,1136 1}
+{767 1,776 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 LOC:other,403 1,895 1,1136 1}
+{210 1,1122 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,50 1,853 1,1139 1}
+{514 1,1027 1,1136 1}
+{0 NUM:date,279 1,774 1,1139 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 NUM:weight,546 1,1056 1,1136 1}
+{0 LOC:other,49 1,139 1,1136 1}
+{0 LOC:country,257 1,261 1,1136 1}
+{1 1,171 1,727 1}
+{0 LOC:state,531 1,1011 1,1139 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:other,476 1,1056 1,1138 1}
+{0 LOC:other,475 1,547 1,1136 1}
+{0 NUM:money,515 1,546 1,716 1}
+{0 NUM:date,1056 1,1124 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 NUM:date,164 1,1124 1,1137 1}
+{0 LOC:other,175 1,547 1,1136 1}
+{0 NUM:period,515 1,546 1,770 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:date,302 1,546 1,1136 1}
+{0 NUM:date,304 1,497 1,1137 1}
+{0 NUM:date,304 1,454 1,1137 1}
+{542 1,1091 1,1139 1}
+{0 NUM:date,282 1,767 1,1136 1}
+{528 1,546 1,1142 1}
+{437 1,1124 1,1136 1}
+{915 1,1056 1,1140 1}
+{0 NUM:count,45 1,515 1,653 1}
+{0 LOC:state,546 1,1056 1,1136 1}
+{0 NUM:count,31 1,515 1,653 1}
+{0 LOC:other,320 1,1056 1,1138 1}
+{523 1,914 1,1124 1}
+{0 NUM:date,1124 1,1136 1,1166 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{1056 1,1140 1,1164 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{563 1,1136 1,1154 1}
+{0 LOC:state,108 1,1011 1,1136 1}
+{841 1,938 1,1140 1}
+{0 LOC:state,546 1,1011 1,1136 1}
+{0 NUM:temp,320 1,510 1,515 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:city,172 1,925 1,1136 1}
+{9 1,546 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:volsize,546 1,1056 1,1136 1}
+{0 NUM:date,279 1,546 1,1136 1}
+{133 1,626 1,1136 1}
+{0 NUM:perc,767 1,805 1,1136 1}
+{0 NUM:date,141 1,217 1,397 1}
+{0 NUM:count,461 1,515 1,653 1}
+{656 1,1124 1,1136 1}
+{0 NUM:other,761 1,767 1,1136 1}
+{37 1,379 1,1136 1}
+{0 NUM:count,243 1,515 1,653 1}
+{0 NUM:count,306 1,515 1,653 1}
+{546 1,1056 1,1140 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{546 1,1056 1,1136 1}
+{0 LOC:other,318 1,706 1,1136 1}
+{0 LOC:city,1012 1,1095 1,1136 1}
+{0 NUM:perc,806 1,1056 1,1136 1}
+{0 LOC:country,1056 1,1124 1,1136 1}
+{0 LOC:other,531 1,799 1,1136 1}
+{426 1,1082 1,1142 1}
+{526 1,1056 1,1136 1}
+{488 1,546 1,1136 1}
+{767 1,1056 1,1139 1}
+{336 1,1007 1,1136 1}
+{0 LOC:other,546 1,828 1,1138 1}
+{10 1,499 1,1136 1}
+{469 1,843 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{9 1,608 1,1136 1}
+{527 1,924 1,1140 1}
+{936 1,1124 1,1140 1}
+{0 NUM:money,515 1,700 1,716 1}
+{0 LOC:other,467 1,1056 1,1138 1}
+{0 LOC:state,1011 1,1124 1,1136 1}
+{0 NUM:date,1124 1,1136 1,1166 1}
+{0 LOC:state,26 1,49 1,1136 1}
+{0 NUM:other,320 1,359 1,1136 1}
+{65 1,1136 1,1158 1}
+{0 NUM:date,302 1,546 1,1136 1}
+{0 NUM:count,359 1,515 1,653 1}
+{0 LOC:other,109 1,304 1,1138 1}
+{0 LOC:other,245 1,546 1,1136 1}
+{0 NUM:date,531 1,1139 1,1166 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:state,546 1,1011 1,1136 1}
+{213 1,992 1,1139 1}
+{0 NUM:other,515 1,546 1,594 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{792 1,974 1,1140 1}
+{157 1,576 1,1140 1}
+{0 LOC:other,546 1,579 1,1138 1}
+{0 NUM:date,320 1,1070 1,1136 1}
+{0 NUM:ord,187 1,767 1,1136 1}
+{0 NUM:money,33 1,767 1,1136 1}
+{0 LOC:country,57 1,257 1,1136 1}
+{0 NUM:count,515 1,653 1,1104 1}
+{1056 1,1140 1,1154 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{286 1,775 1,1136 1}
+{1056 1,1140 1,1164 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{140 1,699 1,1136 1}
+{541 1,1056 1,1140 1}
+{767 1,1056 1,1139 1}
+{0 LOC:other,410 1,908 1,1136 1}
+{0 LOC:other,525 1,1124 1,1138 1}
+{444 1,843 1,1136 1}
+{49 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,1100 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{1056 1,1140 1,1154 1}
+{727 1,1056 1,1091 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{727 1,767 1,1056 1}
+{9 1,166 1,1136 1}
+{353 1,541 1,1136 1}
+{0 LOC:city,31 1,984 1,1136 1}
+{0 LOC:other,1 1,210 1,727 1}
+{0 NUM:date,318 1,1137 1,1170 1}
+{0 NUM:count,255 1,515 1,653 1}
+{1056 1,1124 1,1140 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,372 1,1023 1,1136 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:other,248 1,475 1,1139 1}
+{0 NUM:count,251 1,515 1,653 1}
+{188 1,1089 1,1136 1}
+{0 LOC:mount,49 1,1056 1,1136 1}
+{0 NUM:dist,168 1,376 1,515 1}
+{0 LOC:other,531 1,1056 1,1138 1}
+{0 LOC:country,117 1,257 1,1136 1}
+{0 NUM:date,304 1,759 1,1137 1}
+{0 LOC:country,257 1,1124 1,1136 1}
+{58 1,1056 1,1140 1}
+{829 1,1140 1,1164 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{823 1,1056 1,1140 1}
+{0 NUM:date,632 1,1124 1,1137 1}
+{541 1,1056 1,1140 1}
+{0 LOC:city,172 1,1011 1,1136 1}
+{0 NUM:period,304 1,515 1,633 1}
+{0 NUM:period,320 1,515 1,633 1}
+{790 1,1056 1,1140 1}
+{0 LOC:other,410 1,546 1,1138 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:date,318 1,705 1,1137 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 NUM:money,72 1,546 1,1136 1}
+{0 NUM:period,72 1,515 1,774 1}
+{0 NUM:period,318 1,515 1,633 1}
+{1034 1,1054 1,1136 1}
+{0 LOC:country,257 1,475 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{644 1,1056 1,1140 1}
+{0 NUM:count,515 1,653 1,767 1}
+{82 1,662 1,1136 1}
+{915 1,1056 1,1140 1}
+{0 LOC:other,546 1,902 1,1138 1}
+{0 NUM:count,394 1,515 1,653 1}
+{0 NUM:count,515 1,653 1,971 1}
+{0 NUM:period,17 1,546 1,1136 1}
+{0 LOC:city,209 1,304 1,1136 1}
+{0 LOC:country,256 1,1091 1,1136 1}
+{0 LOC:state,475 1,695 1,1136 1}
+{0 LOC:city,209 1,1124 1,1136 1}
+{0 NUM:count,515 1,653 1,673 1}
+{546 1,1056 1,1140 1}
+{0 NUM:date,282 1,546 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{1056 1,1124 1,1140 1}
+{823 1,1056 1,1140 1}
+{188 1,1089 1,1136 1}
+{546 1,1056 1,1136 1}
+{199 1,843 1,1136 1}
+{0 NUM:other,342 1,1124 1,1136 1}
+{397 1,727 1,1056 1}
+{49 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,875 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,589 1,1136 1}
+{0 NUM:weight,320 1,515 1,716 1}
+{0 NUM:count,515 1,653 1,831 1}
+{0 NUM:count,416 1,515 1,653 1}
+{0 NUM:date,304 1,1060 1,1137 1}
+{0 NUM:count,515 1,653 1,804 1}
+{843 1,1124 1,1136 1}
+{0 LOC:other,26 1,49 1,1136 1}
+{1056 1,1140 1,1154 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{173 1,520 1,1136 1}
+{0 NUM:count,515 1,653 1,794 1}
+{0 LOC:country,257 1,1056 1,1136 1}
+{0 NUM:date,393 1,558 1,1056 1}
+{208 1,310 1,1140 1}
+{546 1,1056 1,1136 1}
+{90 1,995 1,1142 1}
+{0 LOC:country,257 1,531 1,1136 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{552 1,605 1,1136 1}
+{0 LOC:city,209 1,531 1,1136 1}
+{915 1,1136 1,1140 1}
+{580 1,843 1,1136 1}
+{0 LOC:other,320 1,1056 1,1138 1}
+{0 LOC:other,248 1,860 1,1136 1}
+{22 1,1124 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 LOC:other,246 1,798 1,1136 1}
+{0 LOC:other,595 1,1056 1,1136 1}
+{0 LOC:state,355 1,747 1,1136 1}
+{0 LOC:other,258 1,531 1,1136 1}
+{0 NUM:money,320 1,515 1,716 1}
+{0 NUM:period,318 1,515 1,633 1}
+{0 LOC:city,209 1,509 1,1136 1}
+{0 NUM:date,701 1,1134 1,1136 1}
+{97 1,546 1,1140 1}
+{0 NUM:money,515 1,700 1,716 1}
+{0 LOC:country,257 1,294 1,1136 1}
+{10 1,31 1,1136 1}
+{0 NUM:date,279 1,304 1,1136 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{0 NUM:count,515 1,653 1,1130 1}
+{0 NUM:count,515 1,653 1,1084 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:dist,376 1,515 1,787 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{0 LOC:other,828 1,1124 1,1138 1}
+{0 NUM:count,515 1,653 1,1123 1}
+{0 LOC:other,304 1,335 1,1138 1}
+{0 NUM:count,391 1,515 1,653 1}
+{546 1,1056 1,1140 1}
+{228 1,763 1,1136 1}
+{0 NUM:count,121 1,515 1,653 1}
+{1056 1,1124 1,1140 1}
+{575 1,1124 1,1142 1}
+{0 LOC:other,1056 1,1124 1,1136 1}
+{114 1,150 1,1136 1}
+{0 NUM:dist,376 1,515 1,546 1}
+{0 LOC:city,472 1,747 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{143 1,397 1,1140 1}
+{0 NUM:count,506 1,515 1,653 1}
+{0 LOC:other,318 1,1056 1,1138 1}
+{0 NUM:period,320 1,515 1,633 1}
+{318 1,901 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{760 1,859 1,1136 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{0 NUM:count,515 1,653 1,935 1}
+{0 NUM:count,174 1,515 1,653 1}
+{0 NUM:date,767 1,1070 1,1136 1}
+{931 1,1124 1,1140 1}
+{0 NUM:date,546 1,1056 1,1137 1}
+{877 1,1056 1,1140 1}
+{546 1,682 1,1140 1}
+{0 NUM:dist,168 1,376 1,515 1}
+{0 NUM:date,767 1,1070 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{82 1,824 1,1136 1}
+{374 1,652 1,1136 1}
+{0 NUM:date,304 1,1063 1,1137 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:perc,767 1,806 1,1136 1}
+{588 1,605 1,1136 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{886 1,1056 1,1140 1}
+{0 NUM:count,349 1,515 1,653 1}
+{1056 1,1124 1,1136 1}
+{942 1,1056 1,1140 1}
+{19 1,409 1,1136 1}
+{915 1,977 1,1136 1}
+{1056 1,1124 1,1136 1}
+{0 NUM:date,282 1,774 1,1136 1}
+{1 1,1140 1,1154 1}
+{0 LOC:other,546 1,1138 1,1171 1}
+{838 1,951 1,1140 1}
+{0 LOC:other,743 1,1032 1,1137 1}
+{0 NUM:period,515 1,546 1,770 1}
+{546 1,1056 1,1136 1}
+{211 1,1073 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:date,304 1,991 1,1137 1}
+{0 NUM:count,461 1,515 1,653 1}
+{0 LOC:other,170 1,320 1,1136 1}
+{31 1,1136 1,1154 1}
+{0 NUM:perc,49 1,1056 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{1 1,385 1,727 1}
+{0 NUM:period,515 1,633 1,1161 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,994 1}
+{0 LOC:other,304 1,440 1,1138 1}
+{0 NUM:other,677 1,797 1,1136 1}
+{0 NUM:perc,767 1,806 1,1136 1}
+{0 NUM:money,300 1,476 1,1073 1}
+{0 NUM:count,531 1,583 1,984 1}
+{176 1,838 1,1140 1}
+{0 NUM:other,49 1,1056 1,1136 1}
+{1072 1,1124 1,1140 1}
+{122 1,1124 1,1140 1}
+{0 NUM:count,32 1,515 1,653 1}
+{0 LOC:other,318 1,525 1,1138 1}
+{546 1,1056 1,1140 1}
+{0 LOC:country,31 1,597 1,1139 1}
+{0 LOC:other,1056 1,1124 1,1136 1}
+{0 NUM:count,515 1,653 1,1046 1}
+{0 NUM:dist,515 1,546 1,1041 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:country,151 1,257 1,1136 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{767 1,1056 1,1139 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{1056 1,1140 1,1164 1}
+{0 NUM:other,546 1,761 1,1136 1}
+{217 1,546 1,789 1}
+{0 LOC:country,257 1,768 1,1136 1}
+{1056 1,1124 1,1140 1}
+{422 1,605 1,1136 1}
+{0 LOC:other,88 1,993 1,1136 1}
+{0 NUM:count,515 1,653 1,689 1}
+{0 LOC:other,372 1,895 1,1136 1}
+{546 1,1056 1,1140 1}
+{824 1,1005 1,1136 1}
+{706 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,753 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{1056 1,1140 1,1164 1}
+{0 LOC:other,168 1,776 1,1138 1}
+{727 1,872 1,1056 1}
+{546 1,1056 1,1140 1}
+{499 1,1056 1,1140 1}
+{767 1,1056 1,1139 1}
+{541 1,1056 1,1140 1}
+{0 NUM:count,414 1,515 1,653 1}
+{0 NUM:date,304 1,751 1,1137 1}
+{228 1,496 1,1136 1}
+{0 NUM:count,515 1,653 1,676 1}
+{0 LOC:other,360 1,366 1,1136 1}
+{0 LOC:country,246 1,257 1,1136 1}
+{49 1,52 1,1136 1}
+{889 1,1140 1,1151 1}
+{0 LOC:other,245 1,887 1,1136 1}
+{298 1,839 1,1140 1}
+{0 NUM:period,304 1,515 1,633 1}
+{0 NUM:other,1 1,807 1,1136 1}
+{0 NUM:period,17 1,62 1,1136 1}
+{0 LOC:city,910 1,933 1,1136 1}
+{727 1,1056 1,1091 1}
+{0 NUM:period,515 1,770 1,1124 1}
+{0 LOC:mount,709 1,898 1,1136 1}
+{546 1,1056 1,1140 1}
+{838 1,1056 1,1140 1}
+{0 LOC:other,435 1,779 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:count,163 1,515 1,653 1}
+{576 1,587 1,1140 1}
+{264 1,1056 1,1140 1}
+{0 LOC:other,377 1,1056 1,1136 1}
+{0 NUM:volsize,107 1,515 1,546 1}
+{0 NUM:date,1 1,546 1,1137 1}
+{767 1,978 1,1136 1}
+{1056 1,1124 1,1140 1}
+{2 1,436 1,1140 1}
+{10 1,531 1,1136 1}
+{110 1,954 1,1140 1}
+{605 1,704 1,1136 1}
+{0 LOC:other,727 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 LOC:other,546 1,674 1,1138 1}
+{304 1,1141 1,1151 1}
+{0 LOC:country,257 1,1124 1,1136 1}
+{0 NUM:weight,546 1,1056 1,1136 1}
+{767 1,817 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{546 1,1056 1,1136 1}
+{823 1,916 1,1140 1}
+{392 1,726 1,1136 1}
+{0 NUM:money,515 1,546 1,716 1}
+{0 LOC:other,66 1,738 1,1136 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 LOC:other,895 1,909 1,1136 1}
+{140 1,374 1,1136 1}
+{0 LOC:country,257 1,1124 1,1136 1}
+{0 LOC:country,257 1,1124 1,1136 1}
+{546 1,903 1,1136 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{546 1,1056 1,1140 1}
+{10 1,447 1,1139 1}
+{0 NUM:period,515 1,546 1,770 1}
+{496 1,843 1,1136 1}
+{0 LOC:city,31 1,756 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{494 1,644 1,1136 1}
+{0 LOC:state,475 1,1011 1,1136 1}
+{82 1,459 1,1136 1}
+{77 1,1124 1,1140 1}
+{0 LOC:other,546 1,688 1,1138 1}
+{0 LOC:city,209 1,246 1,1136 1}
+{356 1,815 1,1136 1}
+{54 1,304 1,1140 1}
+{0 NUM:speed,378 1,515 1,723 1}
+{41 1,546 1,1136 1}
+{0 NUM:count,515 1,653 1,894 1}
+{0 LOC:other,767 1,776 1,1139 1}
+{0 LOC:state,475 1,1011 1,1136 1}
+{232 1,1023 1,1136 1}
+{0 LOC:country,546 1,737 1,1136 1}
+{0 LOC:other,49 1,977 1,1138 1}
+{0 NUM:count,515 1,550 1,653 1}
+{0 NUM:date,892 1,1124 1,1137 1}
+{0 LOC:other,747 1,1136 1,1169 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{897 1,1124 1,1139 1}
+{0 NUM:date,546 1,1056 1,1137 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{304 1,424 1,1141 1}
+{947 1,1124 1,1140 1}
+{0 LOC:mount,709 1,1056 1,1136 1}
+{0 LOC:country,257 1,1124 1,1136 1}
+{0 LOC:city,557 1,1091 1,1136 1}
+{665 1,1043 1,1140 1}
+{0 LOC:other,304 1,1138 1,1145 1}
+{0 NUM:dist,74 1,376 1,515 1}
+{374 1,393 1,1136 1}
+{375 1,900 1,1140 1}
+{233 1,1056 1,1140 1}
+{0 LOC:other,36 1,168 1,1138 1}
+{0 LOC:country,256 1,320 1,1136 1}
+{0 NUM:date,35 1,304 1,1137 1}
+{0 NUM:count,121 1,515 1,653 1}
+{0 NUM:count,192 1,515 1,653 1}
+{0 LOC:state,341 1,1011 1,1136 1}
+{0 LOC:country,49 1,1056 1,1136 1}
+{609 1,1056 1,1140 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{26 1,1088 1,1140 1}
+{826 1,953 1,1140 1}
+{0 LOC:country,257 1,304 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:count,321 1,515 1,653 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 LOC:country,256 1,1091 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:date,280 1,774 1,1139 1}
+{1056 1,1124 1,1136 1}
+{10 1,70 1,1136 1}
+{0 NUM:count,226 1,515 1,653 1}
+{627 1,774 1,1140 1}
+{0 LOC:country,257 1,1136 1,1146 1}
+{546 1,937 1,1140 1}
+{450 1,546 1,1136 1}
+{0 LOC:other,546 1,1004 1,1136 1}
+{767 1,1056 1,1139 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,820 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 LOC:other,304 1,1110 1,1138 1}
+{525 1,956 1,1140 1}
+{0 NUM:count,20 1,515 1,653 1}
+{305 1,437 1,1136 1}
+{0 NUM:count,515 1,647 1,653 1}
+{0 LOC:state,304 1,1011 1,1136 1}
+{1056 1,1124 1,1136 1}
+{0 NUM:date,546 1,1136 1,1166 1}
+{0 LOC:country,257 1,908 1,1136 1}
+{390 1,838 1,1140 1}
+{0 NUM:money,515 1,700 1,716 1}
+{0 LOC:country,257 1,1136 1,1161 1}
+{0 NUM:date,701 1,1064 1,1136 1}
+{146 1,1056 1,1140 1}
+{497 1,1124 1,1140 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:city,15 1,172 1,1136 1}
+{0 LOC:other,547 1,672 1,1136 1}
+{0 LOC:other,168 1,1138 1,1170 1}
+{0 NUM:date,565 1,1124 1,1137 1}
+{0 LOC:other,145 1,146 1,1136 1}
+{1056 1,1124 1,1140 1}
+{546 1,888 1,1140 1}
+{428 1,988 1,1136 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 LOC:city,209 1,970 1,1136 1}
+{0 LOC:other,98 1,546 1,1138 1}
+{1029 1,1056 1,1140 1}
+{1056 1,1124 1,1140 1}
+{137 1,1140 1,1164 1}
+{0 LOC:state,320 1,1011 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{1096 1,1140 1,1164 1}
+{0 NUM:count,515 1,548 1,653 1}
+{0 LOC:state,117 1,1011 1,1136 1}
+{140 1,234 1,1136 1}
+{264 1,1056 1,1140 1}
+{546 1,1056 1,1136 1}
+{606 1,1134 1,1140 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:country,57 1,985 1,1136 1}
+{0 LOC:city,209 1,552 1,1136 1}
+{0 NUM:count,515 1,653 1,1012 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 NUM:perc,767 1,873 1,1136 1}
+{0 NUM:count,207 1,515 1,653 1}
+{0 NUM:count,515 1,653 1,1116 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:date,184 1,304 1,1136 1}
+{0 NUM:count,515 1,653 1,990 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 NUM:weight,546 1,1056 1,1136 1}
+{0 NUM:weight,546 1,1056 1,1136 1}
+{0 LOC:other,71 1,774 1,1136 1}
+{0 LOC:other,320 1,1056 1,1138 1}
+{0 LOC:other,1056 1,1124 1,1138 1}
+{0 NUM:dist,376 1,515 1,546 1}
+{546 1,1056 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 NUM:count,154 1,515 1,653 1}
+{919 1,1056 1,1140 1}
+{0 NUM:weight,45 1,515 1,716 1}
+{0 LOC:country,257 1,399 1,1136 1}
+{1056 1,1124 1,1140 1}
+{12 1,324 1,727 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 NUM:count,404 1,515 1,716 1}
+{0 NUM:date,1124 1,1136 1,1166 1}
+{0 NUM:count,222 1,515 1,653 1}
+{0 NUM:count,515 1,653 1,1012 1}
+{111 1,153 1,1142 1}
+{531 1,713 1,1056 1}
+{0 NUM:period,515 1,546 1,770 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:country,124 1,257 1,1136 1}
+{0 LOC:other,895 1,909 1,1136 1}
+{1056 1,1124 1,1140 1}
+{319 1,546 1,1136 1}
+{0 NUM:other,49 1,1056 1,1136 1}
+{412 1,1056 1,1140 1}
+{0 NUM:count,515 1,653 1,1173 1}
+{0 NUM:other,49 1,1056 1,1136 1}
+{31 1,437 1,1136 1}
+{0 NUM:other,928 1,1056 1,1136 1}
+{0 LOC:other,320 1,1086 1,1138 1}
+{541 1,1056 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{775 1,941 1,1136 1}
+{546 1,615 1,1136 1}
+{0 NUM:count,515 1,617 1,653 1}
+{0 LOC:country,256 1,1091 1,1136 1}
+{0 LOC:country,546 1,554 1,832 1}
+{48 1,783 1,1136 1}
+{0 NUM:count,515 1,653 1,911 1}
+{0 NUM:date,417 1,1124 1,1137 1}
+{0 LOC:other,774 1,1056 1,1138 1}
+{0 LOC:country,1056 1,1124 1,1136 1}
+{1 1,948 1,1140 1}
+{0 LOC:other,546 1,850 1,1136 1}
+{0 LOC:country,257 1,475 1,1136 1}
+{546 1,1056 1,1140 1}
+{470 1,767 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,895 1,1136 1}
+{0 LOC:other,546 1,732 1,1138 1}
+{546 1,1056 1,1136 1}
+{0 LOC:city,172 1,1056 1,1136 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{1056 1,1124 1,1136 1}
+{0 NUM:money,1056 1,1136 1,1146 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{310 1,1056 1,1140 1}
+{495 1,1091 1,1136 1}
+{0 LOC:other,531 1,1056 1,1138 1}
+{0 LOC:country,257 1,531 1,1136 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 NUM:money,1056 1,1124 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:date,1124 1,1136 1,1166 1}
+{490 1,727 1,767 1}
+{0 NUM:count,515 1,653 1,714 1}
+{188 1,1089 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{82 1,824 1,1136 1}
+{576 1,610 1,1140 1}
+{541 1,1056 1,1140 1}
+{0 NUM:dist,515 1,546 1,1143 1}
+{1056 1,1140 1,1164 1}
+{964 1,1059 1,1136 1}
+{0 NUM:count,515 1,653 1,679 1}
+{0 NUM:count,3 1,515 1,653 1}
+{546 1,898 1,1140 1}
+{479 1,1065 1,1140 1}
+{264 1,1056 1,1140 1}
+{0 LOC:other,120 1,182 1,1136 1}
+{727 1,767 1,776 1}
+{0 LOC:country,124 1,257 1,1136 1}
+{1091 1,1101 1,1136 1}
+{0 LOC:other,318 1,1138 1,1170 1}
+{0 NUM:count,515 1,653 1,745 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{0 LOC:city,209 1,1124 1,1136 1}
+{0 LOC:other,632 1,721 1,1136 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{0 NUM:count,515 1,590 1,653 1}
+{347 1,1124 1,1140 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 NUM:weight,515 1,653 1,840 1}
+{0 NUM:other,33 1,767 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:count,515 1,653 1,689 1}
+{0 NUM:count,186 1,515 1,653 1}
+{0 LOC:state,774 1,1011 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{546 1,1056 1,1140 1}
+{546 1,1056 1,1140 1}
+{0 NUM:perc,49 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{1056 1,1140 1,1164 1}
+{0 LOC:country,257 1,304 1,1136 1}
+{0 LOC:other,49 1,977 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 NUM:date,304 1,701 1,1136 1}
+{49 1,1056 1,1140 1}
+{22 1,823 1,1140 1}
+{0 LOC:other,1056 1,1134 1,1138 1}
+{0 LOC:other,546 1,636 1,1138 1}
+{0 LOC:country,257 1,727 1,1056 1}
+{0 LOC:state,49 1,1011 1,1136 1}
+{0 LOC:city,49 1,1056 1,1136 1}
+{297 1,1089 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:state,320 1,1011 1,1136 1}
+{531 1,800 1,1056 1}
+{348 1,823 1,1140 1}
+{0 LOC:other,727 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{476 1,522 1,1142 1}
+{546 1,578 1,1140 1}
+{0 NUM:count,515 1,716 1,767 1}
+{0 NUM:perc,767 1,806 1,1136 1}
+{0 NUM:date,279 1,546 1,1136 1}
+{0 NUM:count,515 1,533 1,653 1}
+{0 NUM:count,515 1,653 1,1020 1}
+{541 1,1056 1,1140 1}
+{0 LOC:other,342 1,1124 1,1136 1}
+{0 NUM:date,184 1,1056 1,1136 1}
+{1056 1,1140 1,1164 1}
+{0 NUM:money,285 1,304 1,1136 1}
+{546 1,843 1,1139 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{0 LOC:other,304 1,1092 1,1138 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,1093 1}
+{0 NUM:count,369 1,515 1,653 1}
+{0 NUM:count,515 1,653 1,1132 1}
+{0 NUM:count,515 1,653 1,831 1}
+{0 LOC:other,311 1,437 1,1136 1}
+{601 1,1056 1,1140 1}
+{0 LOC:mount,546 1,747 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{0 NUM:count,515 1,653 1,1107 1}
+{843 1,896 1,1136 1}
+{0 LOC:country,531 1,735 1,1136 1}
+{0 LOC:country,1 1,257 1,727 1}
+{0 NUM:code,307 1,946 1,1136 1}
+{1056 1,1124 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{486 1,1056 1,1140 1}
+{0 NUM:perc,7 1,535 1,962 1}
+{0 LOC:other,531 1,799 1,1136 1}
+{49 1,1140 1,1156 1}
+{264 1,666 1,1140 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1126 1,1136 1}
+{184 1,616 1,1140 1}
+{0 LOC:other,774 1,895 1,1136 1}
+{0 NUM:count,668 1,1056 1,1136 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{0 LOC:city,209 1,320 1,1136 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{9 1,475 1,1136 1}
+{0 NUM:count,322 1,515 1,653 1}
+{42 1,1056 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:city,49 1,1056 1,1136 1}
+{356 1,867 1,1136 1}
+{0 LOC:other,895 1,909 1,1136 1}
+{0 NUM:date,304 1,708 1,1137 1}
+{0 NUM:date,197 1,1124 1,1137 1}
+{0 NUM:count,515 1,653 1,808 1}
+{0 NUM:date,767 1,1070 1,1136 1}
+{0 LOC:other,634 1,1056 1,1136 1}
+{824 1,1050 1,1136 1}
+{4 1,793 1,1136 1}
+{0 NUM:count,427 1,515 1,653 1}
+{0 NUM:count,515 1,653 1,691 1}
+{0 NUM:volsize,107 1,515 1,546 1}
+{0 NUM:count,1056 1,1124 1,1136 1}
+{0 LOC:mount,709 1,871 1,1136 1}
+{412 1,1056 1,1140 1}
+{0 NUM:count,515 1,653 1,804 1}
+{578 1,1056 1,1140 1}
+{104 1,698 1,1136 1}
+{984 1,1113 1,1136 1}
+{0 NUM:period,515 1,546 1,770 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 NUM:count,515 1,653 1,1051 1}
+{0 NUM:perc,546 1,1056 1,1136 1}
+{1056 1,1140 1,1154 1}
+{1001 1,1056 1,1140 1}
+{1055 1,1124 1,1136 1}
+{1056 1,1124 1,1140 1}
+{333 1,1140 1,1164 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{546 1,651 1,1140 1}
+{412 1,1056 1,1140 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{446 1,915 1,1140 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:money,153 1,515 1,716 1}
+{727 1,767 1,1056 1}
+{0 NUM:dist,515 1,546 1,633 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:money,564 1,1124 1,1136 1}
+{0 LOC:other,546 1,893 1,1138 1}
+{0 LOC:other,202 1,1124 1,1138 1}
+{0 LOC:other,299 1,320 1,1138 1}
+{0 NUM:period,515 1,770 1,1124 1}
+{0 LOC:other,552 1,592 1,1136 1}
+{0 NUM:count,515 1,653 1,831 1}
+{0 LOC:other,49 1,977 1,1136 1}
+{0 LOC:country,546 1,737 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{541 1,1056 1,1140 1}
+{546 1,1056 1,1136 1}
+{5 1,997 1,1142 1}
+{0 NUM:count,219 1,515 1,716 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{0 LOC:other,462 1,547 1,1136 1}
+{286 1,525 1,1140 1}
+{0 NUM:count,238 1,515 1,653 1}
+{0 LOC:country,778 1,1056 1,1136 1}
+{0 NUM:date,546 1,569 1,1136 1}
+{410 1,586 1,1139 1}
+{0 NUM:dist,546 1,1056 1,1136 1}
+{0 LOC:country,257 1,475 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:city,209 1,320 1,1136 1}
+{0 LOC:other,304 1,1138 1,1155 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{0 LOC:country,49 1,1056 1,1136 1}
+{747 1,784 1,1136 1}
+{0 LOC:other,168 1,776 1,1138 1}
+{0 NUM:count,158 1,515 1,716 1}
+{1056 1,1124 1,1136 1}
+{0 NUM:volsize,107 1,515 1,546 1}
+{0 LOC:country,256 1,476 1,1136 1}
+{195 1,648 1,1140 1}
+{312 1,838 1,1136 1}
+{49 1,1056 1,1136 1}
+{6 1,989 1,1140 1}
+{1122 1,1136 1,1159 1}
+{549 1,1124 1,1140 1}
+{0 LOC:country,117 1,257 1,1136 1}
+{0 LOC:other,253 1,525 1,1138 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:other,515 1,546 1,637 1}
+{160 1,456 1,1136 1}
+{1056 1,1124 1,1140 1}
+{546 1,1056 1,1140 1}
+{0 NUM:money,515 1,716 1,1161 1}
+{0 NUM:perc,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:count,345 1,515 1,653 1}
+{304 1,326 1,1140 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 LOC:country,257 1,925 1,1136 1}
+{0 NUM:period,515 1,633 1,1161 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:city,117 1,209 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 NUM:period,515 1,633 1,1124 1}
+{0 LOC:country,257 1,620 1,1136 1}
+{0 LOC:other,304 1,1033 1,1138 1}
+{0 LOC:mount,546 1,1056 1,1136 1}
+{0 NUM:count,668 1,1056 1,1136 1}
+{0 NUM:count,306 1,515 1,653 1}
+{0 NUM:count,249 1,515 1,653 1}
+{9 1,581 1,1136 1}
+{218 1,407 1,1136 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{1056 1,1124 1,1136 1}
+{0 LOC:state,1 1,546 1,585 1}
+{0 LOC:state,355 1,747 1,1136 1}
+{0 NUM:date,166 1,497 1,1073 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{0 NUM:count,515 1,653 1,804 1}
+{570 1,1140 1,1151 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 NUM:date,437 1,1124 1,1137 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{51 1,131 1,1136 1}
+{0 LOC:country,117 1,257 1,1136 1}
+{546 1,562 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:count,283 1,515 1,653 1}
+{374 1,747 1,1136 1}
+{0 LOC:city,209 1,910 1,1136 1}
+{0 NUM:count,515 1,653 1,1120 1}
+{546 1,816 1,1140 1}
+{843 1,1124 1,1136 1}
+{295 1,1056 1,1136 1}
+{386 1,1136 1,1164 1}
+{1056 1,1124 1,1140 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:count,515 1,653 1,927 1}
+{0 NUM:period,304 1,515 1,633 1}
+{0 NUM:count,515 1,545 1,716 1}
+{0 NUM:date,304 1,1055 1,1137 1}
+{0 LOC:other,49 1,977 1,1136 1}
+{0 LOC:country,257 1,530 1,1136 1}
+{0 NUM:money,318 1,515 1,716 1}
+{0 LOC:other,577 1,767 1,1136 1}
+{0 NUM:count,515 1,631 1,653 1}
+{0 LOC:other,546 1,1133 1,1138 1}
+{0 NUM:temp,510 1,515 1,956 1}
+{0 NUM:period,515 1,546 1,770 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:country,172 1,257 1,1136 1}
+{0 LOC:city,1080 1,1124 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:dist,491 1,515 1,546 1}
+{539 1,1124 1,1140 1}
+{0 NUM:date,402 1,1124 1,1137 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:money,1056 1,1136 1,1146 1}
+{0 NUM:dist,376 1,515 1,546 1}
+{43 1,936 1,1136 1}
+{882 1,1056 1,1140 1}
+{546 1,1056 1,1136 1}
+{83 1,824 1,1136 1}
+{0 NUM:volsize,107 1,515 1,546 1}
+{0 NUM:count,31 1,515 1,653 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:count,156 1,515 1,653 1}
+{0 NUM:money,304 1,515 1,716 1}
+{0 LOC:other,1056 1,1124 1,1136 1}
+{31 1,944 1,1136 1}
+{541 1,1056 1,1140 1}
+{0 LOC:other,304 1,904 1,1136 1}
+{86 1,188 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{951 1,1124 1,1140 1}
+{0 LOC:other,449 1,546 1,1138 1}
+{0 NUM:count,515 1,653 1,1167 1}
+{0 LOC:other,958 1,1118 1,1136 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{0 NUM:date,304 1,708 1,1137 1}
+{727 1,1056 1,1136 1}
+{675 1,767 1,1139 1}
+{211 1,319 1,1136 1}
+{0 NUM:period,475 1,515 1,633 1}
+{0 NUM:weight,304 1,515 1,716 1}
+{228 1,264 1,1136 1}
+{0 NUM:dist,515 1,546 1,1041 1}
+{0 NUM:weight,546 1,1056 1,1136 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 NUM:dist,515 1,546 1,633 1}
+{0 NUM:dist,515 1,546 1,1041 1}
+{0 LOC:other,49 1,1056 1,1136 1}
+{0 LOC:other,546 1,863 1,1138 1}
+{0 LOC:state,546 1,1056 1,1136 1}
+{546 1,1056 1,1140 1}
+{10 1,1008 1,1136 1}
+{1056 1,1140 1,1154 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{0 NUM:count,515 1,653 1,818 1}
+{0 LOC:other,138 1,160 1,1136 1}
+{546 1,1056 1,1140 1}
+{443 1,843 1,1139 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 LOC:city,1056 1,1124 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 NUM:money,1056 1,1124 1,1136 1}
+{0 LOC:mount,546 1,1056 1,1136 1}
+{0 LOC:mount,709 1,871 1,1136 1}
+{0 NUM:count,515 1,653 1,1093 1}
+{218 1,374 1,1136 1}
+{675 1,777 1,1136 1}
+{0 NUM:count,214 1,515 1,653 1}
+{276 1,1124 1,1140 1}
+{541 1,1056 1,1140 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{9 1,37 1,1136 1}
+{411 1,477 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{0 NUM:period,320 1,515 1,633 1}
+{284 1,856 1,1140 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{264 1,474 1,1140 1}
+{843 1,1124 1,1140 1}
+{0 LOC:city,172 1,1056 1,1136 1}
+{0 NUM:weight,318 1,357 1,1136 1}
+{0 NUM:volsize,107 1,515 1,546 1}
+{541 1,1056 1,1140 1}
+{648 1,1056 1,1140 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 LOC:state,546 1,1011 1,1136 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{632 1,770 1,1142 1}
+{1056 1,1140 1,1164 1}
+{0 NUM:ord,187 1,767 1,1136 1}
+{0 NUM:count,31 1,515 1,653 1}
+{0 NUM:date,304 1,641 1,1137 1}
+{0 NUM:period,515 1,633 1,1124 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{747 1,1091 1,1136 1}
+{0 NUM:date,304 1,751 1,1137 1}
+{0 NUM:date,1056 1,1064 1,1136 1}
+{0 LOC:country,257 1,790 1,1136 1}
+{0 NUM:count,515 1,653 1,867 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:ord,187 1,767 1,1136 1}
+{0 LOC:other,304 1,764 1,1136 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{727 1,767 1,776 1}
+{0 LOC:state,987 1,1011 1,1136 1}
+{0 LOC:country,257 1,304 1,1136 1}
+{0 LOC:other,372 1,895 1,1136 1}
+{0 NUM:date,204 1,1124 1,1137 1}
+{0 LOC:other,318 1,864 1,1138 1}
+{546 1,1056 1,1140 1}
+{0 LOC:country,257 1,1035 1,1136 1}
+{576 1,659 1,1140 1}
+{790 1,1056 1,1140 1}
+{61 1,541 1,1140 1}
+{0 NUM:date,320 1,934 1,1136 1}
+{0 LOC:other,311 1,318 1,1136 1}
+{0 NUM:dist,546 1,1056 1,1136 1}
+{291 1,842 1,1136 1}
+{0 LOC:other,88 1,160 1,1136 1}
+{15 1,410 1,1136 1}
+{0 LOC:other,138 1,160 1,1136 1}
+{0 NUM:money,320 1,515 1,716 1}
+{31 1,830 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{650 1,1018 1,1140 1}
+{168 1,567 1,1136 1}
+{0 NUM:count,515 1,653 1,959 1}
+{819 1,1136 1,1153 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 NUM:count,515 1,593 1,653 1}
+{0 LOC:other,88 1,317 1,1136 1}
+{546 1,1056 1,1136 1}
+{211 1,423 1,1136 1}
+{1056 1,1124 1,1140 1}
+{313 1,529 1,1140 1}
+{320 1,1056 1,1140 1}
+{0 NUM:count,383 1,515 1,653 1}
+{0 NUM:count,163 1,515 1,653 1}
+{546 1,1056 1,1140 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:city,441 1,1080 1,1136 1}
+{0 NUM:count,256 1,515 1,653 1}
+{0 NUM:code,546 1,1056 1,1136 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{0 NUM:count,369 1,515 1,653 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,304 1,308 1,1138 1}
+{69 1,1124 1,1136 1}
+{0 LOC:other,120 1,767 1,1136 1}
+{546 1,1135 1,1140 1}
+{0 LOC:other,546 1,657 1,1136 1}
+{0 NUM:count,515 1,646 1,653 1}
+{0 LOC:city,505 1,572 1,1056 1}
+{0 NUM:date,439 1,1070 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:other,546 1,685 1,1138 1}
+{0 NUM:date,200 1,1124 1,1137 1}
+{496 1,964 1,1136 1}
+{0 NUM:money,168 1,515 1,716 1}
+{0 LOC:other,57 1,465 1,1136 1}
+{654 1,1124 1,1136 1}
+{0 NUM:date,302 1,546 1,1137 1}
+{546 1,1056 1,1140 1}
+{188 1,731 1,1136 1}
+{1008 1,1140 1,1151 1}
+{0 NUM:code,307 1,946 1,1136 1}
+{188 1,546 1,1136 1}
+{320 1,1094 1,1141 1}
+{161 1,1098 1,1137 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{767 1,881 1,1136 1}
+{0 NUM:count,174 1,515 1,653 1}
+{1056 1,1124 1,1140 1}
+{546 1,1056 1,1140 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:period,515 1,770 1,1124 1}
+{1091 1,1140 1,1154 1}
+{0 NUM:date,1124 1,1136 1,1166 1}
+{0 NUM:ord,320 1,1056 1,1138 1}
+{0 LOC:other,49 1,1056 1,1136 1}
+{0 LOC:mount,492 1,727 1,1056 1}
+{0 LOC:other,546 1,547 1,1136 1}
+{0 LOC:other,862 1,1124 1,1138 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{49 1,1056 1,1140 1}
+{546 1,1056 1,1140 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{1056 1,1134 1,1140 1}
+{838 1,847 1,1140 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:dist,491 1,515 1,723 1}
+{830 1,929 1,1136 1}
+{546 1,1056 1,1136 1}
+{0 LOC:other,764 1,1035 1,1136 1}
+{236 1,374 1,1136 1}
+{0 LOC:city,49 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,693 1}
+{0 NUM:count,430 1,515 1,653 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:count,250 1,515 1,653 1}
+{73 1,1056 1,1140 1}
+{0 LOC:city,531 1,614 1,963 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{288 1,428 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:country,49 1,1056 1,1136 1}
+{0 LOC:other,546 1,670 1,1138 1}
+{49 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,1069 1}
+{0 NUM:count,515 1,653 1,1045 1}
+{1056 1,1124 1,1140 1}
+{1056 1,1124 1,1140 1}
+{1056 1,1124 1,1140 1}
+{302 1,727 1,1081 1}
+{0 NUM:perc,415 1,767 1,1136 1}
+{0 NUM:money,515 1,716 1,1146 1}
+{436 1,578 1,1140 1}
+{0 LOC:state,531 1,1011 1,1136 1}
+{92 1,843 1,1140 1}
+{1056 1,1140 1,1164 1}
+{304 1,921 1,1140 1}
+{0 NUM:count,327 1,515 1,653 1}
+{578 1,960 1,1139 1}
+{197 1,727 1,1056 1}
+{0 NUM:count,515 1,653 1,1174 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 LOC:other,969 1,1130 1,1136 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 NUM:count,226 1,515 1,653 1}
+{276 1,1124 1,1136 1}
+{140 1,385 1,1136 1}
+{0 LOC:other,546 1,670 1,1138 1}
+{0 LOC:other,767 1,799 1,1136 1}
+{0 NUM:count,515 1,653 1,663 1}
+{0 NUM:dist,515 1,546 1,1041 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{0 NUM:date,76 1,1124 1,1137 1}
+{389 1,838 1,1140 1}
+{0 LOC:other,311 1,318 1,1136 1}
+{0 NUM:count,89 1,515 1,653 1}
+{0 LOC:other,49 1,301 1,1138 1}
+{0 NUM:money,515 1,700 1,716 1}
+{648 1,1056 1,1140 1}
+{47 1,546 1,1140 1}
+{92 1,843 1,1136 1}
+{0 NUM:count,515 1,537 1,653 1}
+{0 LOC:city,209 1,475 1,1136 1}
+{0 LOC:state,117 1,1011 1,1136 1}
+{0 NUM:count,401 1,515 1,653 1}
+{196 1,1124 1,1140 1}
+{644 1,669 1,1136 1}
+{0 NUM:count,515 1,531 1,716 1}
+{0 NUM:date,94 1,1124 1,1137 1}
+{546 1,1056 1,1140 1}
+{297 1,628 1,1136 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{354 1,906 1,1102 1}
+{838 1,1056 1,1140 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{1056 1,1124 1,1140 1}
+{546 1,1056 1,1140 1}
+{0 LOC:country,256 1,1091 1,1136 1}
+{0 NUM:period,18 1,515 1,633 1}
+{0 LOC:mount,49 1,1056 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{531 1,1008 1,1140 1}
+{0 NUM:count,306 1,515 1,653 1}
+{9 1,1136 1,1140 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:code,227 1,546 1,1136 1}
+{0 LOC:other,1053 1,1124 1,1138 1}
+{610 1,954 1,1140 1}
+{0 NUM:date,304 1,555 1,1137 1}
+{0 LOC:other,706 1,1056 1,1136 1}
+{0 LOC:other,49 1,1056 1,1136 1}
+{838 1,883 1,1140 1}
+{0 LOC:country,257 1,475 1,1136 1}
+{0 LOC:other,304 1,822 1,1136 1}
+{0 NUM:count,49 1,515 1,769 1}
+{0 NUM:money,304 1,515 1,716 1}
+{0 LOC:country,246 1,257 1,1136 1}
+{0 NUM:count,31 1,1056 1,1136 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{216 1,372 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 LOC:city,160 1,986 1,1136 1}
+{0 NUM:count,226 1,515 1,653 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:city,209 1,1056 1,1136 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{273 1,546 1,1140 1}
+{0 NUM:count,350 1,515 1,653 1}
+{0 LOC:city,209 1,594 1,1139 1}
+{1056 1,1124 1,1140 1}
+{83 1,541 1,1140 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{498 1,824 1,1136 1}
+{843 1,1124 1,1136 1}
+{0 NUM:money,304 1,515 1,716 1}
+{0 LOC:country,257 1,1124 1,1136 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 NUM:count,480 1,515 1,653 1}
+{0 NUM:count,1 1,516 1,755 1}
+{323 1,1056 1,1140 1}
+{0 LOC:country,257 1,320 1,1136 1}
+{0 LOC:country,364 1,1091 1,1136 1}
+{1056 1,1124 1,1136 1}
+{296 1,727 1,1056 1}
+{546 1,772 1,1140 1}
+{134 1,578 1,1136 1}
+{1056 1,1124 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:other,531 1,796 1,1056 1}
+{0 NUM:date,546 1,1056 1,1136 1}
+{0 LOC:city,172 1,546 1,1136 1}
+{0 NUM:count,515 1,653 1,767 1}
+{0 LOC:other,372 1,1121 1,1136 1}
+{380 1,838 1,1140 1}
+{0 LOC:other,49 1,452 1,1138 1}
+{1124 1,1136 1,1153 1}
+{1056 1,1140 1,1164 1}
+{295 1,632 1,1140 1}
+{0 NUM:count,515 1,653 1,689 1}
+{0 NUM:count,401 1,515 1,653 1}
+{0 LOC:other,49 1,1056 1,1138 1}
+{0 NUM:count,419 1,515 1,653 1}
+{244 1,1124 1,1140 1}
+{0 NUM:dist,515 1,1041 1,1124 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:other,1056 1,1124 1,1138 1}
+{0 NUM:money,304 1,515 1,716 1}
+{0 NUM:count,365 1,515 1,653 1}
+{0 LOC:other,1056 1,1134 1,1136 1}
+{750 1,1028 1,1140 1}
+{203 1,1124 1,1140 1}
+{727 1,767 1,1056 1}
+{0 NUM:count,78 1,515 1,653 1}
+{0 LOC:city,209 1,1124 1,1136 1}
+{181 1,259 1,1136 1}
+{0 LOC:other,511 1,1056 1,1138 1}
+{915 1,1136 1,1140 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,613 1,653 1}
+{0 LOC:city,1056 1,1134 1,1136 1}
+{0 NUM:money,1056 1,1124 1,1136 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{0 NUM:date,546 1,1056 1,1137 1}
+{0 LOC:country,257 1,364 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:money,304 1,515 1,716 1}
+{0 NUM:count,515 1,653 1,804 1}
+{655 1,823 1,1140 1}
+{103 1,459 1,1140 1}
+{0 LOC:country,546 1,737 1,1136 1}
+{546 1,1056 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:date,546 1,843 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:date,304 1,1136 1,1166 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 LOC:city,209 1,557 1,1136 1}
+{304 1,1056 1,1140 1}
+{727 1,1056 1,1136 1}
+{0 LOC:other,546 1,776 1,1138 1}
+{304 1,730 1,1140 1}
+{140 1,848 1,1136 1}
+{0 NUM:count,515 1,653 1,762 1}
+{0 LOC:city,771 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,720 1}
+{0 NUM:period,318 1,515 1,633 1}
+{1056 1,1124 1,1136 1}
+{490 1,727 1,767 1}
+{0 NUM:volsize,107 1,515 1,546 1}
+{0 LOC:country,554 1,832 1,1124 1}
+{1056 1,1140 1,1164 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:other,547 1,1124 1,1136 1}
+{767 1,1056 1,1139 1}
+{14 1,1049 1,1136 1}
+{0 NUM:count,515 1,548 1,653 1}
+{541 1,1119 1,1140 1}
+{0 LOC:country,706 1,1056 1,1136 1}
+{609 1,1056 1,1140 1}
+{0 NUM:perc,767 1,806 1,1136 1}
+{727 1,1056 1,1136 1}
+{541 1,1056 1,1140 1}
+{578 1,1124 1,1136 1}
+{0 NUM:count,343 1,515 1,653 1}
+{76 1,1134 1,1136 1}
+{0 NUM:count,127 1,515 1,653 1}
+{0 LOC:other,318 1,629 1,1138 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{1056 1,1140 1,1164 1}
+{0 NUM:count,512 1,515 1,653 1}
+{25 1,546 1,1136 1}
+{0 LOC:city,207 1,1091 1,1136 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{541 1,1047 1,1140 1}
+{727 1,809 1,1056 1}
+{24 1,576 1,1136 1}
+{0 NUM:temp,370 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,720 1}
+{716 1,1140 1,1164 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{638 1,941 1,1136 1}
+{785 1,1140 1,1154 1}
+{546 1,1136 1,1163 1}
+{604 1,1056 1,1140 1}
+{274 1,531 1,1091 1}
+{826 1,1056 1,1140 1}
+{0 NUM:count,189 1,515 1,653 1}
+{0 NUM:money,1056 1,1124 1,1136 1}
+{110 1,264 1,1140 1}
+{0 LOC:country,257 1,923 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:other,531 1,589 1,1136 1}
+{1056 1,1134 1,1140 1}
+{1056 1,1140 1,1164 1}
+{1140 1,1161 1,1170 1}
+{0 LOC:other,372 1,618 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:other,448 1,546 1,1138 1}
+{0 LOC:city,31 1,756 1,1136 1}
+{869 1,1089 1,1136 1}
+{0 LOC:other,546 1,551 1,1138 1}
+{0 NUM:period,546 1,667 1,1136 1}
+{0 NUM:count,515 1,653 1,1066 1}
+{727 1,940 1,1056 1}
+{385 1,1036 1,1136 1}
+{217 1,790 1,1140 1}
+{0 NUM:count,3 1,515 1,653 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{675 1,767 1,1136 1}
+{0 LOC:country,49 1,257 1,1136 1}
+{782 1,1056 1,1136 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 LOC:country,1 1,546 1,1136 1}
+{0 LOC:country,256 1,338 1,1136 1}
+{0 LOC:city,209 1,531 1,1139 1}
+{0 NUM:date,49 1,1056 1,1137 1}
+{1056 1,1124 1,1140 1}
+{546 1,1056 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 NUM:date,332 1,1124 1,1137 1}
+{546 1,1056 1,1140 1}
+{645 1,838 1,1140 1}
+{0 LOC:other,49 1,1138 1,1172 1}
+{0 NUM:perc,49 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{177 1,727 1,1056 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:volsize,107 1,515 1,546 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 NUM:count,515 1,593 1,653 1}
+{1056 1,1134 1,1140 1}
+{675 1,767 1,1139 1}
+{0 LOC:other,403 1,895 1,1136 1}
+{228 1,1124 1,1136 1}
+{0 LOC:other,318 1,1138 1,1170 1}
+{400 1,639 1,1140 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:count,515 1,533 1,653 1}
+{778 1,1056 1,1140 1}
+{0 NUM:money,253 1,515 1,716 1}
+{965 1,1117 1,1142 1}
+{0 NUM:money,546 1,1056 1,1136 1}
+{0 LOC:city,31 1,756 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:other,304 1,466 1,1138 1}
+{0 NUM:count,515 1,716 1,1024 1}
+{0 NUM:money,318 1,515 1,716 1}
+{149 1,239 1,843 1}
+{228 1,1089 1,1136 1}
+{264 1,1056 1,1140 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{0 NUM:count,515 1,653 1,907 1}
+{140 1,437 1,1136 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{0 LOC:city,209 1,1136 1,1161 1}
+{55 1,1026 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 NUM:count,515 1,653 1,1157 1}
+{0 LOC:other,546 1,1061 1,1138 1}
+{0 NUM:count,515 1,653 1,676 1}
+{1056 1,1140 1,1164 1}
+{0 NUM:date,546 1,1056 1,1136 1}
+{0 NUM:count,189 1,515 1,653 1}
+{0 LOC:other,148 1,546 1,1138 1}
+{1056 1,1140 1,1164 1}
+{918 1,1124 1,1140 1}
+{577 1,767 1,1136 1}
+{0 NUM:count,515 1,518 1,653 1}
+{1056 1,1140 1,1164 1}
+{823 1,1056 1,1140 1}
+{0 NUM:period,546 1,1056 1,1136 1}
+{0 LOC:other,304 1,1056 1,1138 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 LOC:state,318 1,1012 1,1136 1}
+{0 LOC:city,209 1,475 1,1136 1}
+{0 LOC:country,257 1,727 1,1056 1}
+{0 NUM:other,677 1,797 1,1136 1}
+{0 NUM:count,256 1,515 1,653 1}
+{0 LOC:other,320 1,706 1,1138 1}
+{49 1,1056 1,1140 1}
+{0 NUM:count,515 1,653 1,1165 1}
+{9 1,1124 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 LOC:country,117 1,257 1,1136 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{0 LOC:country,257 1,546 1,1139 1}
+{414 1,727 1,1056 1}
+{0 NUM:count,515 1,653 1,1127 1}
+{371 1,385 1,1136 1}
+{0 LOC:other,304 1,578 1,1138 1}
+{374 1,1044 1,1136 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{0 NUM:money,49 1,126 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{1068 1,1083 1,1140 1}
+{0 NUM:date,282 1,531 1,1136 1}
+{0 NUM:count,31 1,515 1,653 1}
+{0 NUM:count,383 1,515 1,653 1}
+{0 NUM:period,18 1,515 1,633 1}
+{0 NUM:money,304 1,515 1,716 1}
+{405 1,1097 1,1140 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 NUM:period,320 1,515 1,633 1}
+{0 LOC:state,231 1,1011 1,1136 1}
+{0 NUM:count,515 1,653 1,711 1}
+{0 NUM:other,49 1,1056 1,1136 1}
+{546 1,1056 1,1140 1}
+{845 1,1091 1,1136 1}
+{767 1,1056 1,1139 1}
+{268 1,854 1,1136 1}
+{0 NUM:count,515 1,533 1,653 1}
+{0 NUM:count,515 1,653 1,689 1}
+{0 LOC:state,534 1,1011 1,1136 1}
+{356 1,827 1,1136 1}
+{0 NUM:dist,287 1,515 1,546 1}
+{420 1,1124 1,1136 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{131 1,485 1,1136 1}
+{0 NUM:count,515 1,653 1,866 1}
+{0 LOC:other,632 1,1022 1,1136 1}
+{0 NUM:period,515 1,546 1,770 1}
+{0 NUM:date,320 1,1056 1,1137 1}
+{0 LOC:country,123 1,257 1,1136 1}
+{0 LOC:country,116 1,735 1,1136 1}
+{0 NUM:date,432 1,773 1,1056 1}
+{507 1,1089 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{541 1,1056 1,1140 1}
+{0 LOC:city,546 1,1056 1,1136 1}
+{0 LOC:country,231 1,257 1,1136 1}
+{0 NUM:temp,510 1,515 1,956 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{0 LOC:other,304 1,493 1,1138 1}
+{31 1,739 1,1136 1}
+{436 1,1101 1,1140 1}
+{1056 1,1140 1,1164 1}
+{546 1,1056 1,1140 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:count,159 1,515 1,716 1}
+{546 1,1056 1,1136 1}
+{697 1,1056 1,1140 1}
+{440 1,838 1,1140 1}
+{0 NUM:date,759 1,1124 1,1137 1}
+{778 1,1056 1,1140 1}
+{0 LOC:country,546 1,1056 1,1136 1}
+{0 NUM:count,546 1,1056 1,1136 1}
+{0 LOC:country,257 1,475 1,1136 1}
+{541 1,1056 1,1140 1}
+{0 LOC:other,546 1,932 1,1136 1}
+{406 1,546 1,1136 1}
+{0 LOC:other,531 1,1056 1,1138 1}
+{0 NUM:dist,515 1,1041 1,1124 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{0 LOC:country,256 1,476 1,1136 1}
+{0 NUM:count,515 1,653 1,689 1}
+{0 NUM:volsize,107 1,515 1,546 1}
+{699 1,960 1,1136 1}
+{0 NUM:count,515 1,653 1,959 1}
+{0 LOC:other,49 1,1061 1,1138 1}
+{0 LOC:other,774 1,895 1,1136 1}
+{0 LOC:other,774 1,1056 1,1138 1}
+{0 LOC:other,1056 1,1134 1,1138 1}
+{0 LOC:other,179 1,1124 1,1136 1}
+{0 LOC:city,505 1,572 1,1056 1}
+{0 NUM:period,515 1,770 1,1124 1}
+{0 LOC:other,1 1,531 1,1138 1}
+{0 LOC:other,624 1,1021 1,1136 1}
+{0 LOC:other,21 1,546 1,1136 1}
+{0 NUM:code,307 1,946 1,1136 1}
+{0 LOC:city,21 1,209 1,1136 1}
+{532 1,833 1,1136 1}
+{0 NUM:count,515 1,653 1,1071 1}
+{0 NUM:count,515 1,653 1,729 1}
+{546 1,578 1,1136 1}
+{0 LOC:state,546 1,1056 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{532 1,833 1,1136 1}
+{312 1,644 1,1136 1}
+{0 NUM:date,304 1,1037 1,1137 1}
+{767 1,845 1,1139 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{188 1,531 1,1136 1}
+{162 1,229 1,1136 1}
+{0 NUM:count,430 1,515 1,653 1}
+{27 1,843 1,1136 1}
+{0 NUM:date,320 1,678 1,1137 1}
+{0 LOC:other,304 1,649 1,1138 1}
+{0 NUM:dist,287 1,515 1,546 1}
+{0 LOC:state,546 1,1011 1,1136 1}
+{10 1,1124 1,1140 1}
+{0 NUM:other,546 1,1056 1,1136 1}
+{561 1,576 1,1140 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:country,257 1,531 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 LOC:other,361 1,546 1,1138 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 NUM:period,515 1,770 1,1124 1}
+{0 NUM:count,112 1,515 1,653 1}
+{1056 1,1134 1,1136 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{541 1,795 1,1140 1}
+{469 1,843 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 NUM:count,515 1,716 1,1070 1}
+{0 NUM:dist,287 1,515 1,546 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 LOC:other,436 1,822 1,1136 1}
+{0 NUM:date,701 1,767 1,1136 1}
+{147 1,546 1,1140 1}
+{0 LOC:country,546 1,1056 1,1136 1}
+{0 NUM:perc,546 1,1056 1,1136 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 NUM:speed,168 1,378 1,515 1}
+{10 1,374 1,1136 1}
+{0 NUM:money,304 1,515 1,716 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{0 NUM:count,515 1,653 1,1134 1}
+{0 NUM:period,515 1,633 1,956 1}
+{0 LOC:city,209 1,546 1,1136 1}
+{546 1,683 1,1136 1}
+{1056 1,1124 1,1140 1}
+{265 1,438 1,1136 1}
+{0 LOC:other,546 1,1056 1,1138 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 NUM:count,515 1,653 1,971 1}
+{99 1,1124 1,1140 1}
+{312 1,718 1,1136 1}
+{0 LOC:other,75 1,546 1,1138 1}
+{0 NUM:date,1056 1,1124 1,1137 1}
+{0 NUM:date,206 1,1124 1,1137 1}
+{37 1,1136 1,1144 1}
+{0 LOC:city,209 1,1057 1,1136 1}
+{0 NUM:temp,956 1,1056 1,1136 1}
+{0 NUM:count,502 1,515 1,653 1}
+{531 1,1124 1,1140 1}
+{546 1,912 1,1136 1}
+{0 LOC:other,440 1,1124 1,1138 1}
+{0 NUM:count,226 1,515 1,653 1}
+{686 1,1056 1,1136 1}
+{0 LOC:country,175 1,1091 1,1136 1}
+{26 1,1075 1,1140 1}
+{405 1,1140 1,1148 1}
+{0 LOC:mount,248 1,802 1,1136 1}
+{0 LOC:city,209 1,811 1,1136 1}
+{0 NUM:date,304 1,422 1,1137 1}
+{0 NUM:count,515 1,653 1,677 1}
+{320 1,727 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 LOC:country,546 1,737 1,1136 1}
+{823 1,1056 1,1140 1}
+{775 1,843 1,1136 1}
+{644 1,1056 1,1140 1}
+{56 1,1102 1,1140 1}
+{0 NUM:period,318 1,515 1,633 1}
+{0 LOC:other,764 1,1035 1,1136 1}
+{0 LOC:country,31 1,984 1,1136 1}
+{0 NUM:count,271 1,515 1,653 1}
+{793 1,834 1,1136 1}
+{640 1,823 1,1140 1}
+{0 LOC:other,225 1,932 1,1136 1}
+{1056 1,1124 1,1140 1}
+{0 LOC:other,248 1,774 1,1136 1}
+{1056 1,1124 1,1140 1}
+{304 1,799 1,1136 1}
+{0 NUM:date,685 1,1124 1,1137 1}
+{0 NUM:date,304 1,843 1,1137 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:state,546 1,1011 1,1136 1}
+{546 1,1056 1,1140 1}
+{0 LOC:state,26 1,49 1,1136 1}
+{0 LOC:other,320 1,1056 1,1136 1}
+{0 LOC:state,304 1,1011 1,1136 1}
+{0 NUM:count,515 1,653 1,976 1}
+{0 NUM:count,515 1,653 1,855 1}
+{305 1,1140 1,1151 1}
+{1056 1,1124 1,1136 1}
+{1056 1,1140 1,1154 1}
+{0 LOC:other,546 1,984 1,1138 1}
+{0 LOC:country,257 1,475 1,1136 1}
+{0 LOC:state,1012 1,1091 1,1136 1}
+{0 NUM:date,531 1,1136 1,1166 1}
+{0 NUM:date,1124 1,1136 1,1166 1}
+{0 NUM:date,304 1,1056 1,1137 1}
+{0 NUM:money,304 1,515 1,716 1}
+{51 1,890 1,1136 1}
+{0 LOC:other,125 1,661 1,1136 1}
+{232 1,374 1,1136 1}
+{0 NUM:count,515 1,565 1,653 1}
+{0 NUM:date,236 1,304 1,1137 1}
+{93 1,475 1,1136 1}
+{0 NUM:count,194 1,515 1,653 1}
+{0 NUM:count,515 1,653 1,804 1}
+{0 LOC:country,257 1,364 1,1136 1}
+{356 1,367 1,1136 1}
+{0 LOC:country,257 1,546 1,1136 1}
+{0 NUM:date,190 1,304 1,1137 1}
+{0 NUM:count,64 1,515 1,653 1}
+{0 LOC:other,546 1,1056 1,1136 1}
+{0 LOC:other,168 1,525 1,1138 1}
+{0 LOC:city,209 1,531 1,1136 1}
+{0 NUM:temp,546 1,1056 1,1136 1}
+{0 NUM:temp,546 1,1056 1,1136 1}
