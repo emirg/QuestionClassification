@@ -17,19 +17,22 @@ def main():
         source = open('../Datasets/5500ingles.txt', 'r', encoding="ISO-8859-1")
         csv = open('../Datasets/5500ingles_' + experimento + '_NoWeka.arff', 'w+', encoding="ISO-8859-1")
         custom_stopwords = open('../Stopwords/stopwords_without_questions.txt', 'r', encoding="ISO-8859-1").readlines()
+        for index, stopword in enumerate(custom_stopwords):
+            custom_stopwords[index] = stopword[:-3]
+
         csv.write("@relation answer" + experimento + "\n")
         csv.write("@attribute AnswerType STRING\n")
-        # csv.write("@attribute Question STRING\n")
-        csv.write("@attribute FirstWord STRING\n")
-        csv.write("@attribute SecondWord STRING\n")
-        csv.write("@attribute ThirdWord STRING\n")
-        csv.write("@attribute FourthWord STRING\n")
-        csv.write("@attribute FirstAndSecond STRING\n")
-        csv.write("@attribute SecondAndThird STRING\n")
-        csv.write("@attribute FirstAndThird STRING\n")
-        csv.write("@attribute FirstAndFourth STRING\n")
-        csv.write("@attribute SecondAndFourth STRING\n")
-        csv.write("@attribute ThirdAndFourth STRING\n")
+        csv.write("@attribute Question STRING\n")
+        # csv.write("@attribute FirstWord STRING\n")
+        # csv.write("@attribute SecondWord STRING\n")
+        # csv.write("@attribute ThirdWord STRING\n")
+        # csv.write("@attribute FourthWord STRING\n")
+        # csv.write("@attribute FirstAndSecond STRING\n")
+        # csv.write("@attribute SecondAndThird STRING\n")
+        # csv.write("@attribute FirstAndThird STRING\n")
+        # csv.write("@attribute FirstAndFourth STRING\n")
+        # csv.write("@attribute SecondAndFourth STRING\n")
+        # csv.write("@attribute ThirdAndFourth STRING\n")
 
         csv.write("@data\n")
         lines = source.readlines()
@@ -53,8 +56,8 @@ def main():
                     if word not in custom_stopwords and word.isalpha():
                         word = word_Lemmatized.lemmatize(word, tag_map[tag[0]])
                         final_question.append(word)
-                # csv.write('"' + csv_line[0] + '"' + ' , "' + ' '.join(final_question) + '" \n')
-                if (len(final_question) > 3):
+                csv.write('"' + csv_line[0] + '"' + ' , "' + ' '.join(final_question) + '" \n')
+                #if (len(final_question) > 3):
                     # 3 Palabras
                     # csv.write(
                     #     '"' + csv_line[0] + '"' + ' , "' + final_question[0] + '" , "' + final_question[1] + '" , "' +
@@ -74,11 +77,11 @@ def main():
                     #     final_question[2] + '" , "' + final_question[0] + ' ' + final_question[2] + '" \n')
 
                     #4 Palabras + Digrama
-                    csv.write(
-                        '"' + csv_line[0] + '"' + ' , "' + final_question[0] + '" , "' + final_question[1] + '" , "' + final_question[2] + '" , "' + final_question[3] +
-                        '" , "' + final_question[0] + ' ' + final_question[1] + '" , "' + final_question[1] + ' ' + final_question[2] + '" , "' +
-                        final_question[0] + ' ' + final_question[2] + '" , "' + final_question[0] + ' ' + final_question[3] + '" , "' + final_question[1] + ' ' + final_question[3] +
-                        '" , "' + final_question[2] + ' ' + final_question[3] + '" \n')
+                    # csv.write(
+                    #     '"' + csv_line[0] + '"' + ' , "' + final_question[0] + '" , "' + final_question[1] + '" , "' + final_question[2] + '" , "' + final_question[3] +
+                    #     '" , "' + final_question[0] + ' ' + final_question[1] + '" , "' + final_question[1] + ' ' + final_question[2] + '" , "' +
+                    #     final_question[0] + ' ' + final_question[2] + '" , "' + final_question[0] + ' ' + final_question[3] + '" , "' + final_question[1] + ' ' + final_question[3] +
+                    #     '" , "' + final_question[2] + ' ' + final_question[3] + '" \n')
         print(num_questions)
     except Exception as e:
         print(e)
